@@ -14,5 +14,6 @@ What might differentiate me from others in the DS/ML industry is that I bring to
 
 
 ```
+I am starting to work on some projects and will host them here
 Thank you for visiting my portfolio :)
 ```

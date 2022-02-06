@@ -15,6 +15,9 @@ sidebar:
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/caiocvelasco
+  - name: LinkedIn
+    icon: fa-brands fa-linkedin
+    link: https://www.linkedin.com/in/caiovelasco/
   - name: Twitter
     icon: fa-brands fa-twitter
     link: https://twitter.com/CaioCVelasco
