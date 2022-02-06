@@ -1,9 +1,9 @@
-title: Minimalist theme
-logo: /assets/img/logo.png
-email: bogus at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+title: Caio Velasco
+logo: /assets/img/caio_ucla.JPG
+email: caiocvelasco at gmail dot com
+description: Description Test
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: G-TWEB84PHGE
 color-scheme: auto
 plugins:
   - jekyll-sitemap
@@ -11,18 +11,12 @@ plugins:
   - jemoji
 
 sidebar:
-  - name: Google Scholar
-    icon: fa-solid fa-user-graduate
-    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
   - name: GitHub
     icon: fa-brands fa-github
-    link: https://github.com/BDHU
+    link: https://github.com/caiocvelasco
   - name: Twitter
     icon: fa-brands fa-twitter
-    link: https://twitter.com/BodunHu
-  - name: Blog
-    icon: fa-solid fa-pen
-    link: https://www.bodunhu.com/blog/
+    link: https://twitter.com/CaioCVelasco
   - name: Project Repository
     icon: fa-solid fa-box-archive
-    link: https://github.com/BDHU/minimalist
+    link: https://github.com/caiocvelasco/caiocvelasco.github.io
