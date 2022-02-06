@@ -12,6 +12,9 @@ plugins:
   - jemoji
 
 sidebar:
+  - name: CV
+    icon: fa-regular fa-circle-user
+    link: /assets/img/CaioVelasco_CV_DS_General.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/caiocvelasco
