@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA). 
+I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA). 
 
 In 2021, I was enrolled in a top 5 European Ph.D. in Economics but decided to leave and transition into **Data Science & Machine Learning**.
 
