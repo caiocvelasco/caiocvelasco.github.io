@@ -14,7 +14,16 @@ As hobbies, I play football competitively (forward). I have played in amateur le
 
 I find happiness in the little things in life and I learned a lot from every mistake I have made so far.
 
+## Projects
 ```
 I am starting to work on some projects and will host them here asap.
 Thank you for visiting my portfolio :)
 ```
+
+## Math, Stats, Economics, and other Contributions
+Sometimes, I try to contribute to some interesting communities. I am still working on this, but you can see an example below.
+
+* Math StackExchange\
+Here is an [example](https://math.stackexchange.com/a/3444354/727414).
+
+
