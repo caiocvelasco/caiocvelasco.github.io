@@ -22,7 +22,7 @@ I will host my projects here asap. Thank you for visiting :)
 
 ### Machine Learning
 
-[Fixed Asset Investment Analysis](/projects/project_fixed_asset.ipynb)
+[Fixed Asset Investment Analysis](https://github.com/caiocvelasco/project-fixed-asset-investment/blob/975cdf630b83bfef173bcf591e2e4d6203aaf9e3/project_fixed_asset.ipynb)
 <img src = "assets/img/fixed-asset.jpg">
 
 ## Sharing Knowledge
