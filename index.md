@@ -22,7 +22,7 @@ I will host my projects here asap. Thank you for visiting :)
 
 ### Machine Learning
 
-[Fixed Asset Investment Analysis](https://github.com/caiocvelasco/project-fixed-asset-investment/blob/975cdf630b83bfef173bcf591e2e4d6203aaf9e3/project_fixed_asset.ipynb)
+[Term Deposit Predictive ML Model](https://github.com/caiocvelasco/ml-project-bank-term-deposit/blob/4f1bfa72d17cefdfe2a515054f1f2cfffa3c7749/bank-term-deposit-notebook.ipynb)
 <img src = "assets/img/fixed-asset.jpg">
 
 ## Sharing Knowledge
