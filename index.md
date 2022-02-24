@@ -35,7 +35,7 @@ Sometimes, I try to contribute to some interesting communities. I am still worki
 * Math StackExchange\
 Here is an [example](https://math.stackexchange.com/a/3444354/727414).
 
-### Economics
+### Statistics
 _Under construction_
 
 ### Economics
