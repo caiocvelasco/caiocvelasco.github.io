@@ -58,6 +58,14 @@
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+hr {
+  width: 100%;
+  border: none;
+    height: 3px;
+    /* Set the hr color */
+    background-color: #333; /* Modern Browsers */
+}
+
 @media screen and (max-width: 700px){
   .box{
     width: 70%;

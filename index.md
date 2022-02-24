@@ -14,16 +14,29 @@ As hobbies, I play football competitively (forward). I have played in amateur le
 
 I find happiness in the little things in life and I learned a lot from every mistake I have made so far.
 
-## Projects
-```
-I am starting to work on some projects and will host them here asap.
-Thank you for visiting my portfolio :)
-```
+I will host my projects here asap. Thank you for visiting :)
 
-## Math, Stats, Economics, and other Contributions
+## Projects
+
+---
+
+### Machine Learning
+
+[Fixed Asset Investment Analysis](/projects/project_fixed_asset.ipynb)
+<img src = "assets/img/fixed-asset.jpg">
+
+## Sharing Knowledge
+
+---
+
+### Math
 Sometimes, I try to contribute to some interesting communities. I am still working on this, but you can see an example below.
 
 * Math StackExchange\
 Here is an [example](https://math.stackexchange.com/a/3444354/727414).
 
+### Economics
+_Under construction_
 
+### Economics
+_Under construction_
