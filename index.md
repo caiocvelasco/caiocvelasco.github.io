@@ -22,7 +22,7 @@ I will host my projects here asap. Thank you for visiting :)
 
 ### Machine Learning
 
-[Bank & Marketing] [Term Deposit Predictive ML Model](https://github.com/caiocvelasco/ml-project-bank-term-deposit/blob/d91a74197f5578fccee18e97081b047b02089a7a/bank-term-deposit-notebook.ipynb)
+[Bank & Marketing] [Term Deposit Predictive ML Model](https://github.com/caiocvelasco/ml-project-bank-term-deposit/blob/main/bank-term-deposit-notebook.ipynb)
 <img src = "assets/img/fixed-asset.jpg">
 
 ## Sharing Knowledge
