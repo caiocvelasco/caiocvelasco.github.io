@@ -22,7 +22,7 @@ Thank you for visiting :)
 
 ### Data Analysis & Machine Learning
 
-[Bank & Marketing] [Classification]
+[Bank & Marketing] [Classification] - _Work in Progress_
 [Term Deposit Predictive Model](https://github.com/caiocvelasco/ml-project-bank-term-deposit/blob/main/bank-term-deposit-notebook.ipynb)
 <img src = "assets/img/fixed-asset.jpg">
 
