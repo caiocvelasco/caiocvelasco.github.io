@@ -10,6 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-target-blank
 
 sidebar:
   - name: CV
