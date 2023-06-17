@@ -39,7 +39,7 @@ Thank you for visiting :)
 ### Statistics & Data Science
 I have a passion for teaching and I have been trained by amazing professors in top notch universities around the globe. I can't see myself in the field of Statiscs & Data Science and not master the underlying theory. 
 
-Therefore, I have started to write a book that belongs to a course I call "**An Intuitive Course in Probability (and Statistics)**, _for data science_. The idea is to provide strong intuition for every major concept while keeping the mathematical formalization and rigor very close. It will be available both in English and Portuguese, my native languange.
+Therefore, I have started to write a book that belongs to a course I call "**An Intuitive Course in Probability (and Statistics)**, _for data science_. The idea is to provide strong intuition for every major concept while keeping the mathematical formalization and rigor very close. It will be available both in English and Portuguese, my native language.
 
 Please, check the English version [here](https://caiocvelasco.github.io/assets/my_course/An_Intuitive_Course_in_Probability__draft_EN.pdf) and the Portuguese version [aqui!](https://caiocvelasco.github.io/assets/my_course/Um_Curso_Intuitivo_de_Probabilidade__draft_PT.pdf) It's a working in progress, so you may find only part of Chapter 1 now.
 
