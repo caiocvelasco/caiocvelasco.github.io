@@ -50,3 +50,6 @@ Sometimes, I try to contribute to some interesting communities. I am still worki
 
 * Math StackExchange\
 Here is an [example](https://math.stackexchange.com/a/3444354/727414).
+
+
+[def]: https://caiocvelasco.github.io/assets/my_course/Um_Curso_Intuitivo_de_Probabilidade__draft_PT.pdf
