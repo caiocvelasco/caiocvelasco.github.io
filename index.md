@@ -6,13 +6,13 @@ I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy
 
 In 2021, because of the pandemic, I decided to stop a Ph.D. in Economics in the Netherlands and transition into **Data Science**.
 
-I grew up in Rio de Janeiro and education was the only weapon I had to succeed in life. As a consequence, I was awarded by Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome.
+I grew up in Rio de Janeiro and education was the only weapon I had to succeed in life. As a consequence of my efforts, I was awarded by Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome.
 
-I have a very technical profile, but I also bring strong business and entrepreneurial skills to the table. In the past, I helped build Stone Payments, a famous Brazilian FinTech payment company (NASDAQ: STNE), I also created my own mathematics digital product (MePrepara), and worked as a consultant in the education sector.
+I have a very technical profile, but I also bring strong business and entrepreneurial skills to the table. In the past, I helped build Stone Payments, a famous Brazilian FinTech payment company (NASDAQ: STNE). I also created my own mathematics digital product (MePrepara) with over 140 videos teaching low-income Brazilian students who want to take the GMAT and GRE exams and apply to MBA/PhD abroad. I also worked in the education sector in Brazil, as a consultant.
 
-As hobbies, I play football competitively (forward). I have played in amateur leagues in Brazil, USA, and the Netherlands. This is largely due to my father's experience as a professional football player in Brazil. I also love to take long walks, to hike, travel to different places, and to maintain a healthy, disciplined, and organized routine. This is due to my mother's influence as a retired Colonel in the Brazilian Army. She also holds a PhD in Education. I also have a strong passion for teaching and educating others. My main characteristic is the ability to transform very complex subjects into intuitive topics for any audience.
+As hobbies, I play football competitively (forward), it's my passion. I have played in amateur leagues in Brazil, USA, and the Netherlands. I also have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform very complex subjects into intuitive topics for any audience.
 
-I find happiness in the little things in life, in being social. I also learned a lot from every mistake I have made so far (and still do).
+I find happiness in the little things in life and I also learned a lot from every mistake I have made so far (and still do).
 
 Thank you for visiting :)
 
@@ -37,9 +37,9 @@ Thank you for visiting :)
 ---
 
 ### Statistics & Data Science
-I have a passion for teaching and I have been trained by amazing professors in top notch universities around the globe. I can't see myself in the field of Statiscs & Data Science and not master the underlying theory. 
+I have a passion for teaching and I have been trained by amazing professors in top notch universities around the globe.
 
-Therefore, I have started to write a book that belongs to a course I call "**An Intuitive Course in Probability (and Statistics)**, _for data science_. The idea is to provide strong intuition for every major concept while keeping the mathematical formalization and rigor very close. It will be available both in English and Portuguese, my native language.
+Therefore, I have started to write a book that belongs to a (future) course I call "**An Intuitive Course in Probability (and Statistics)**, _for data science_. The idea is to provide strong intuition for every major concept while keeping the mathematical formalization and rigor very close. I had this idea after taking a Probability Theory course from MIT. I am a fan. It will be available both in English and Portuguese.
 
 Please, check the English version [here](https://caiocvelasco.github.io/assets/my_course/An_Intuitive_Course_in_Probability__draft_EN.pdf) and the Portuguese version [aqui!](https://caiocvelasco.github.io/assets/my_course/Um_Curso_Intuitivo_de_Probabilidade__draft_PT.pdf)
 
