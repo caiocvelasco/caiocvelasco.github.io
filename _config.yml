@@ -15,7 +15,7 @@ plugins:
 sidebar:
   - name: CV
     icon: fa-regular fa-circle-user
-    link: /assets/img/CaioVelasco_CV_DS_General.pdf
+    link: /assets/img/CV_CaioVelasco_2024.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/caiocvelasco
