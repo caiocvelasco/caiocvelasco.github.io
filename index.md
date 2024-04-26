@@ -27,7 +27,7 @@ Thank you for visiting :)
 
 --- 
 
-### (Work in Progress) End-to-End Data Science Project with Git, Docker, dbt, DuckDB, & Airflow, with Git, VSCode & Jupyter Notebook
+### (Work in Progress) End-to-End Data Science Project with Docker, DuckDB, dbt, Airflow, Python & SQL
 
 [Work in Progress - Check it out here!](https://github.com/caiocvelasco/end-to-end-data-science-project.git)
 <img src = "assets/img/etl.png">
