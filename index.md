@@ -20,17 +20,17 @@ Thank you for visiting :)
 
 ---
 
-### Data Analysis with Python and Inferential Statistics
-
-[Healthcare Cardio & Covid Data Analysis](https://github.com/caiocvelasco/cardio-covid-project.git)
-<img src = "assets/img/health.jfif">
-
---- 
-
 ### (Work in Progress) End-to-End Data Science Project with Docker, DuckDB, dbt, Airflow, Python & SQL
 
 [Work in Progress - Check it out here!](https://github.com/caiocvelasco/end-to-end-data-science-project.git)
 <img src = "assets/img/etl.png">
+
+--- 
+
+### Data Analysis with Python and Inferential Statistics
+
+[Healthcare Cardio & Covid Data Analysis](https://github.com/caiocvelasco/cardio-covid-project.git)
+<img src = "assets/img/health.jfif">
 
 --- 
 
