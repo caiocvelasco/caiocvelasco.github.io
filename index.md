@@ -2,6 +2,19 @@
 layout: default
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:image" content="https://caiocvelasco.github.io/assets/img/etl.png"> <!-- Change this URL to the image you want -->
+  <meta property="og:url" content="https://github.com/caiocvelasco/caiocvelasco.github.io">
+  <title>Caio Velasco</title>
+</head>
+<body>
+</body>
+</html>
+
 I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA) where I was awarded both the Lemann and the Luskin Fellowship for academic excellence. 
 
 In 2021, because of the pandemic, I decided to stop a Ph.D. in Economics in the Netherlands and transition into **Data Science**.
