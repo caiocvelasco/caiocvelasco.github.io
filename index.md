@@ -30,8 +30,14 @@ I find happiness in the little things in life and I also learned a lot from ever
 Thank you for visiting :)
 
 ## Projects
-
 ---
+
+### (Work in Progress) ETL Pipeline from API to PowerBI (with Dockerized Postgres, Jupyter Notebook, and Python)
+
+[Work in Progress - Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-to-PowerBI.git)
+<img src = "assets/img/project01.png">
+
+--- 
 
 ### (Work in Progress) End-to-End Data Science Project with Docker, DuckDB, dbt, Airflow, Python & SQL
 
