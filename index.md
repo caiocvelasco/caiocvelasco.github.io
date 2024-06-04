@@ -15,17 +15,13 @@ layout: default
 </body>
 </html>
 
-I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA) where I was awarded both the Lemann and the Luskin Fellowship for academic excellence. 
+I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA). In 2021, because of the pandemic, I decided to stop a Ph.D. in Economics in the Netherlands and transition into **Data Science**.
 
-In 2021, because of the pandemic, I decided to stop a Ph.D. in Economics in the Netherlands and transition into **Data Science**.
+My experience ranges from Advanced Math, Economics, Statistics (with Causal Inference), Business Analysis, Product Ownership, Data Engineering, Data Science, and Consulting.
 
 I grew up in Rio de Janeiro and education was the only weapon I had to succeed in life. As a consequence of my efforts, I was awarded by Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome.
 
 I have a very technical profile, but I also bring strong business and entrepreneurial skills to the table. In the past, I helped build Stone Payments, a famous Brazilian FinTech payment company (NASDAQ: STNE). I also created my own mathematics digital product (MePrepara) with over 140 videos teaching low-income Brazilian students who want to take the GMAT and GRE exams and apply for MBA/PhD abroad. I also worked in the education sector in Brazil, as a consultant.
-
-As hobbies, I play football competitively (forward), it's my passion. I have played in amateur leagues in Brazil, USA, and the Netherlands. I also have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform very complex subjects into intuitive topics for any audience.
-
-I find happiness in the little things in life and I also learned a lot from every mistake I have made so far (and still do).
 
 Thank you for visiting :)
 
@@ -54,6 +50,10 @@ Thank you for visiting :)
 --- 
 
 ## Sharing Knowledge
+
+As hobbies, I play football competitively (forward), it's my passion. I have played in amateur leagues in Brazil, USA, and the Netherlands. I also have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform very complex subjects into intuitive topics for any audience.
+
+I find happiness in the little things in life and I also learned a lot from every mistake I have made so far (and still do).
 
 ---
 
