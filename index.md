@@ -34,7 +34,7 @@ Thank you for visiting :)
 ### (Work in Progress) ETL Pipeline from Crypto API to PowerBI (with Dockerized Postgres, Jupyter Notebook, and Python)
 
 [Work in Progress - Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-to-PowerBI.git)
-<img src = "assets/img/project01.png">
+<img src = "assets/img/project01-etl.png">
 
 --- 
 
