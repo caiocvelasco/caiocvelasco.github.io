@@ -28,13 +28,13 @@ I have a very technical profile, but I also bring strong business and entreprene
 
 Thank you for visiting :)
 
-## Projects
+## Projects (Data Engineering)
 ---
 
-### (Work in Progress) ETL Pipeline from Crypto API to PowerBI (with Dockerized Postgres, Jupyter Notebook, and Python)
+### ETL Pipeline from Crypto API to Tableau (CSV), with Dockerized Postgres, Jupyter Notebook, and Python.
 
-[Work in Progress - Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-to-PowerBI.git)
-<img src = "assets/img/project01-etl.png">
+[Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-CSV-to-Tableau.git)
+<img src = "assets/img/project01-etl-tableau.png">
 
 --- 
 
@@ -45,7 +45,10 @@ Thank you for visiting :)
 
 --- 
 
-### Data Analysis with Python and Inferential Statistics
+## Projects (Data Science & Analytics)
+---
+
+### Data Analysis and Inferential Statistics with Python
 
 [Healthcare Cardio & Covid Data Analysis](https://github.com/caiocvelasco/cardio-covid-project.git)
 <img src = "assets/img/health.jfif">
