@@ -38,10 +38,17 @@ Thank you for visiting :)
 
 --- 
 
-### (Work in Progress) ETL (Medallion Architecture and Kimball Dimensional Modeling) for Machine Learning (Churn Prediction), with Dockerized Postgres, Jupyter Notebook, and Python.
+### ETL (Medallion Architecture and Kimball Dimensional Modeling) for Machine Learning (Churn Prediction), with Dockerized Postgres, Jupyter Notebook, and Python.
 
-[Work in Progress - Check it out here!](https://github.com/caiocvelasco/project02-docker-medallion-postgres-kimball-star-schema.git)
+[Check it out here!](https://github.com/caiocvelasco/project02-docker-medallion-postgres-kimball-star-schema.git)
 <img src = "assets/img/project_02-elt-medallion.png">
+
+---  
+
+### Migrating ETL (Medallion Architecture and Kimball Dimensional Modeling) to dbt, with Dockerized Postgres, Jupyter Notebook, and dbt.
+
+[Check it out here!](https://github.com/caiocvelasco/project02-docker-dbt-migration-medallion-kimball-postgres.git)
+<img src = "assets/img/project_02-elt-medallion_dbt.png">
 
 --- 
 
