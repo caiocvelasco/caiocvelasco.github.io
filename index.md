@@ -52,12 +52,11 @@ Thank you for visiting :)
 
 --- 
 
-### (Work in Progress) End-to-End Data Science Project with Docker, DuckDB, dbt, Airflow, Python & SQL
+### Part 1 of 2 - Leveraging dbt-DuckDB to perform an Ingestion Step (Postgres -> Parquet -> AWS S3 Bucket).
 
-[Work in Progress - Check it out here!](https://github.com/caiocvelasco/end-to-end-data-science-project.git)
-<img src = "assets/img/etl.png">
-
---- 
+[Check it out here!](https://github.com/caiocvelasco/project02-docker-dbt-DuckDB-medallion-kimball-postgres/tree/main/dbt_1_ingestion#readme)
+<img src = "assets/img/dbt_1_ingestion.jpg">
+ 
 
 ## Projects (Data Science & Analytics)
 ---
