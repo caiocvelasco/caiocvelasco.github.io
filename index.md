@@ -34,6 +34,9 @@ Thank you for visiting :)
 ### ETL Pipeline from Crypto API to Tableau (CSV), with Dockerized Postgres, Jupyter Notebook, and Python.
 
 [Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-CSV-to-Tableau.git)
+
+This ETL pipeline uses Python functions to perform ETL steps, extracting from an external API and transforming the data to be saved as CSV files for later use by Tableau or any other visualization tool. This project runs within a Dockerized environment, using PostgreSQL as a database and Jupyter Notebook as a quick way to interact with the data.
+
 <img src = "assets/img/project01-etl-tableau.png">
 
 --- 
@@ -41,6 +44,9 @@ Thank you for visiting :)
 ### ETL (Medallion Architecture and Kimball Dimensional Modeling) for Machine Learning (Churn Prediction), with Dockerized Postgres, Jupyter Notebook, and Python.
 
 [Check it out here!](https://github.com/caiocvelasco/project02-docker-medallion-postgres-kimball-star-schema.git)
+
+I built a Python ETL pipeline using Python functions to perform ETL steps. This project runs within a Dockerized environment, using PostgreSQL as a database and Jupyter Notebook as a quick way to interact with the data and materialize schemas and tables. The ETL process followed the Medallion Architecture (bronze, silver, and gold schemas) and Kimbal's Dimensional Modeling (Star Schema).
+
 <img src = "assets/img/project_02-elt-medallion.png">
 
 ---  
@@ -48,15 +54,30 @@ Thank you for visiting :)
 ### Migrating ETL (Medallion Architecture and Kimball Dimensional Modeling) to dbt, with Dockerized Postgres, Jupyter Notebook, and dbt.
 
 [Check it out here!](https://github.com/caiocvelasco/project02-docker-dbt-migration-medallion-kimball-postgres.git)
+
+I expanded a previous work to mimic a project where we want to migrate Python ETL Processes to dbt, within a Dockerized environment. The data is extracted from multiple CSV files and both the Transformation and Loading steps are done against PostgreSQL, via dbt. The ETL process followed the Medallion Architecture (bronze, silver, and gold schemas) and Kimbal's Dimensional Modeling (Star Schema).
+
 <img src = "assets/img/project_02-elt-medallion_dbt.png">
 
 --- 
 
-### Part 1 of 2 - Leveraging dbt-DuckDB to perform an Ingestion Step (Postgres -> Parquet -> AWS S3 Bucket).
+### Part 1 of 2 - Leveraging dbt-DuckDB to perform an Ingestion Step (Postgres -> AWS S3 Bucket (Parquet)).
 
-[Check it out here!](https://github.com/caiocvelasco/project02-docker-dbt-DuckDB-medallion-kimball-postgres/tree/main/dbt_1_ingestion#readme)
+[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
+
+This projects uses a Dockerized environment to extract data from Postgres (as if it were data in "Production"). Then, it converts the data into a Parquet files, saving them into AWS S3 Bucket. I used my AWS Free Tier account and implemented the dbt-DuckDB adapter to expand dbt's core function (the Transformation step) into an Ingestion machine. 
+
 <img src = "assets/img/dbt_1_ingestion.jpg">
  
+--- 
+
+### Part 2 of 2 - Leveraging dbt-Snowflake to perform a Transformation Step (Parquet in S3 -> Snowflake External Tables -> Transformation in Snowflake via dbt).
+
+[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
+
+This project uses a Dockerized environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize dimension and facts in the Silver Layer and Aggregated tables in the Gold schema, following the Medallion Architecture and Kimbal's Dimensional Modeling. 
+
+<img src = "assets/img/dbt_2_transformation.jpg">
 
 ## Projects (Data Science & Analytics)
 ---
