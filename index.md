@@ -85,7 +85,7 @@ This project uses a Dockerized environment to extract Parquet files stored in S3
 
 [Check it out here!](https://github.com/caiocvelasco/project04-venv-dbt-from-s3-parquet-to-snowflake-external-tables-scd-type-2)
 
-This project uses a Virtual Environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize an scd type 2 table in the Silver Layer into the Gold schema, following the Medallion Architecture. 
+This project uses a Virtual Environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize an SCD TYPE 2 table in the Silver Layer following the dbt incremental strategy. Then, it is materialized into a View in the Gold schema, following the Medallion Architecture. 
 
 <img src = "assets/img/dbt_2_transformation.jpg">
 
