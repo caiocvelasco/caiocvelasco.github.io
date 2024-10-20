@@ -31,13 +31,33 @@ Thank you for visiting :)
 ## Projects (Data Engineering)
 ---
 
-### ETL Pipeline from Crypto API to Tableau (CSV), with Dockerized Postgres, Jupyter Notebook, and Python.
+### Lead Quality Process (Reading Parquet and CSVs from S3 -> Transforming with Object-Oriented Design -> Postgres (Bronze, Silver, Gold Layers)).
 
-[Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-CSV-to-Tableau.git)
+[Check it out here!](https://github.com/caiocvelasco/project05-docker-s3-csv-parquet-object-oriented-leads-quality)
 
-This ETL pipeline uses Python functions to perform ETL steps, extracting from an external API and transforming the data to be saved as CSV files for later use by Tableau or any other visualization tool. This project runs within a Dockerized environment, using PostgreSQL as a database and Jupyter Notebook as a quick way to interact with the data.
+This projects uses a Dockerized environment to extract data both Parquet and CSV Data from S3 Buckets to Load and Transform them in PostgreSQL, following the Medallion Architecture. 
 
-<img src = "assets/img/project01-etl-tableau.png">
+<img src = "assets/img/etl-leads-project.jpg">
+
+---
+
+### Part 1 of 2 - Leveraging dbt-DuckDB to perform an Ingestion Step (Postgres -> AWS S3 Bucket (Parquet)).
+
+[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
+
+This projects uses a Dockerized environment to extract data from Postgres (as if it were data in "Production"). Then, it converts the data into a Parquet files, saving them into AWS S3 Bucket. I used my AWS Free Tier account and implemented the dbt-DuckDB adapter to expand dbt's core function (the Transformation step) into an Ingestion machine. 
+
+<img src = "assets/img/dbt_1_ingestion.jpg">
+ 
+---
+
+### Part 2 of 2 - Leveraging dbt-Snowflake to perform a Transformation Step (Parquet in S3 -> Snowflake External Tables -> Transformation in Snowflake via dbt).
+
+[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
+
+This project uses a Dockerized environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize dimension and facts in the Silver Layer and Aggregated tables in the Gold schema, following the Medallion Architecture and Kimbal's Dimensional Modeling. 
+
+<img src = "assets/img/dbt_2_transformation.jpg">
 
 --- 
 
@@ -59,35 +79,16 @@ I expanded a previous work to mimic a project where we want to migrate Python ET
 
 <img src = "assets/img/project_02-elt-medallion_dbt.png">
 
---- 
+---
 
-### Part 1 of 2 - Leveraging dbt-DuckDB to perform an Ingestion Step (Postgres -> AWS S3 Bucket (Parquet)).
+### ETL Pipeline from Crypto API to Tableau (CSV), with Dockerized Postgres, Jupyter Notebook, and Python.
 
-[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
+[Check it out here!](https://github.com/caiocvelasco/project01-docker-ETL-from-API-CSV-to-Tableau.git)
 
-This projects uses a Dockerized environment to extract data from Postgres (as if it were data in "Production"). Then, it converts the data into a Parquet files, saving them into AWS S3 Bucket. I used my AWS Free Tier account and implemented the dbt-DuckDB adapter to expand dbt's core function (the Transformation step) into an Ingestion machine. 
+This ETL pipeline uses Python functions to perform ETL steps, extracting from an external API and transforming the data to be saved as CSV files for later use by Tableau or any other visualization tool. This project runs within a Dockerized environment, using PostgreSQL as a database and Jupyter Notebook as a quick way to interact with the data.
 
-<img src = "assets/img/dbt_1_ingestion.jpg">
- 
---- 
+<img src = "assets/img/project01-etl-tableau.png">
 
-### Part 2 of 2 - Leveraging dbt-Snowflake to perform a Transformation Step (Parquet in S3 -> Snowflake External Tables -> Transformation in Snowflake via dbt).
-
-[Check it out here!](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
-
-This project uses a Dockerized environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize dimension and facts in the Silver Layer and Aggregated tables in the Gold schema, following the Medallion Architecture and Kimbal's Dimensional Modeling. 
-
-<img src = "assets/img/dbt_2_transformation.jpg">
-
---- 
-
-### Leveraging dbt-Snowflake to perform Transformation Step (Reading Parquet from S3 -> Storing in Snowflake External Tables -> dbt Transformation in Snowflake -> SCD Type 2 w/ Incremental Strategy).
-
-[Check it out here!](https://github.com/caiocvelasco/project04-venv-dbt-from-s3-parquet-to-snowflake-external-tables-scd-type-2)
-
-This project uses a Virtual Environment to extract Parquet files stored in S3 Buckets. External Tables were In Snowflake following Snowflake's Storage Integration and External Stage procedures. Then, dbt perfors the Transformation step and materialize an SCD TYPE 2 table in the Silver Layer following the dbt incremental strategy. Then, it is materialized into a View in the Gold schema, following the Medallion Architecture. 
-
-<img src = "assets/img/dbt_2_transformation.jpg">
 
 ## Projects (Data Science & Analytics)
 ---
