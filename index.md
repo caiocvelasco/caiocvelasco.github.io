@@ -31,6 +31,16 @@ Thank you for visiting :)
 ## Projects (Data Engineering)
 ---
 
+### Implementing an SCD Type 2 dimension from a CDC source using Snowflakes's Stored procedure and Data Quality Checks.
+
+[Check it out here!](https://github.com/caiocvelasco/project06-venv-cdc-scd-type-2-stored-procedure-snowflake)
+
+This task involves implementing a Slowly Changing Dimension (SCD) Type 2 to track changes to a product’s status over time within Snowflake. The source for this dimension is a Change Data Capture (CDC) stream that logs all data modification events (DML operations) from a transactional system. The main goal is to maintain historical records of product status changes, based on an ordered and deduplicated stream of changes assuring idempotency and with basic data quality checks.
+
+<img src = "assets/img/stored_procedure_scd_type_2.jpg">
+
+---
+
 ### Lead Quality Process (Reading Parquet and CSVs from S3 -> Transforming with Object-Oriented Design -> Postgres (Bronze, Silver, Gold Layers)).
 
 [Check it out here!](https://github.com/caiocvelasco/project05-docker-s3-csv-parquet-object-oriented-leads-quality)
