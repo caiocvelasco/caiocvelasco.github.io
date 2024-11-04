@@ -28,7 +28,11 @@ Moreover, I bring strong entrepreneurial skills to the table. In the past, I hel
 
 Thank you for visiting :)
 
-## Projects (Data Engineering)
+# Projects
+* Data Engineering
+* Data Science & Analytics
+
+## Data Engineering
 ---
 
 ### Implementing an SCD Type 2 dimension from a CDC source using Snowflakes's Stored procedure and Data Quality Checks.
@@ -100,12 +104,19 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 <img src = "assets/img/project01-etl-tableau.png">
 
 
-## Projects (Data Science & Analytics)
+## Data Science & Analytics
+---
+
+### Causal Inference Method (Difference-in-Differences): Measuring the Effect of a new Customer-Satisfaction Program at an Airline Company
+
+[Check it out here!](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)
+<img src = "assets/img/airline.jpg">
+
 ---
 
 ### Data Analysis and Inferential Statistics with Python
 
-[Healthcare Cardio & Covid Data Analysis](https://github.com/caiocvelasco/cardio-covid-project.git)
+[Check it out here!](https://github.com/caiocvelasco/cardio-covid-project.git)
 <img src = "assets/img/health.jfif">
 
 --- 
