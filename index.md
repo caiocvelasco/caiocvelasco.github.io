@@ -29,8 +29,10 @@ Moreover, I bring strong entrepreneurial skills to the table. In the past, I hel
 Thank you for visiting :)
 
 # Projects
-* Data Engineering
-* Data Science & Analytics
+* **[Data Engineering](#data-engineering)**
+* **[Data Science and Data Analytics](#data-science-and-data-analytics)**
+
+See all projects below!
 
 ## Data Engineering
 ---
@@ -104,7 +106,7 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 <img src = "assets/img/project01-etl-tableau.png">
 
 
-## Data Science & Analytics
+## Data Science and Data Analytics
 ---
 
 ### Causal Inference (Propensity Score Matching & Difference-in-Differences): Measuring the Effect of a New Recommendation System on an E-Commerce Marketplace
