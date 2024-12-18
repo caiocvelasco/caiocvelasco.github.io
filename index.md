@@ -107,7 +107,14 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 ## Data Science & Analytics
 ---
 
-### Causal Inference Method (Difference-in-Differences): Measuring the Effect of a new Customer-Satisfaction Program at an Airline Company
+### Causal Inference (Propensity Score Matching & Difference-in-Differences): Measuring the Effect of a New Recommendation System on an E-Commerce Marketplace
+
+[Check it out here!](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)
+<img src = "assets/img/marketplace.jpeg">
+
+---
+
+### Causal Inference (Difference-in-Differences): Measuring the Effect of a New Customer-Satisfaction Program on an Airline Company
 
 [Check it out here!](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)
 <img src = "assets/img/airline.jpg">
