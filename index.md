@@ -30,7 +30,22 @@ Thank you for visiting :)
 
 # Projects
 * **[Data Engineering](#data-engineering)**
-* **[Data Science and Data Analytics](#data-science-and-data-analytics)**
+  * _Tech Stack: SQL, Python, dbt, Snowflake, AWS_
+  * [CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
+  * [Lead Quality Process (Reading Parquet and CSVs from S3 -> Postgres)](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
+  * [dbt project - Part 1: Postgres -> AWS S3 Bucket (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
+  * [dbt project - Part 2: Parquet in S3 -> Snowflake -> Transformation](#part-2-of-2---leveraging-dbt-snowflake-to-perform-a-transformation-step-parquet-in-s3---snowflake-external-tables---transformation-in-snowflake-via-dbt)
+  * [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
+  * [Migrating ETL to dbt](#migrating-etl-medallion-architecture-and-kimball-dimensional-modeling-to-dbt-with-dockerized-postgres-jupyter-notebook-and-dbt)
+  * [ETL from Crypto API to Tableau](#etl-pipeline-from-crypto-api-to-tableau-csv-with-dockerized-postgres-jupyter-notebook-and-python)
+* **[Applied Data Science](#applied-data-science)**
+  * Tech Stack: Python (Pandas, Numpy, Statsmodels, Scikit-Learn
+CausalInference)
+  * [Causal Inference: Effect of a New Recommendation System](#causal-inference-propensity-score-matching--difference-in-differences-measuring-the-effect-of-a-new-recommendation-system-on-an-e-commerce-marketplace)
+  * [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
+* **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
+  * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
+  * _Under construction!_
 
 See all projects below!
 
@@ -106,7 +121,7 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 <img src = "assets/img/project01-etl-tableau.png">
 
 
-## Data Science and Data Analytics
+## Applied Data Science
 ---
 
 ### Causal Inference (Propensity Score Matching & Difference-in-Differences): Measuring the Effect of a New Recommendation System on an E-Commerce Marketplace
@@ -120,6 +135,15 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 
 [Check it out here!](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)
 <img src = "assets/img/airline.jpg">
+
+---
+
+## Data Analytics with Python (Best Practices)
+---
+### Data Cleaning - Preparing Categorical Data for Modeling
+[Check it out here!](https://github.com/caiocvelasco/cleaning-categorical-data-best-practices.git)
+
+When datasets are large, it can take forever for a Machine Learning model to make predictions. We want to make sure that data is stored efficiently without having to change the size of the dataset.
 
 ---
 
