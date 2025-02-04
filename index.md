@@ -44,7 +44,7 @@ Thank you for visiting :)
   * [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
-  * [Data Cleaning - Cleaning and Parsing Date and Timezone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
+  * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
   * _Under construction!_
 
 See all projects below!
