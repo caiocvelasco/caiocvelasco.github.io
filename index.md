@@ -44,6 +44,7 @@ Thank you for visiting :)
   * [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
+  * [Data Cleaning - Cleaning and Parsing Date and Timezone for Modeling](#data-cleaning---cleaning-and-parsing-date-and-time-zone-for-modeling)
   * _Under construction!_
 
 See all projects below!
@@ -145,6 +146,13 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 When datasets are large, it can take forever for a Machine Learning model to make predictions. We want to make sure that data is stored efficiently without having to change the size of the dataset.
 
 ---
+### Data Cleaning - Cleaning and Parsing Date and Time zone for Modeling
+[Check it out here!](https://github.com/caiocvelasco/cleaning-categorical-data-best-practices.git)
+
+Best Practices when cleaning dates, time, and time zone.
+
+---
+
 
 ### Data Analysis and Inferential Statistics with Python
 
