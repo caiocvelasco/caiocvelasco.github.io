@@ -30,7 +30,7 @@ Thank you for visiting :)
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
-  > _Tech Stack: SQL, Python, Airbyte, dbt, Snowflake, AWS_
+  * _Tech Stack: SQL, Python, Airbyte, dbt, Snowflake, AWS_
   * [Implementing CDC with SCD Techniques: CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
   * [Lead Quality Process: AWS S3 Bucket (Parquet, CSVs) -> Postgres](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
   * [Part 1 - Ingestion - dbt-DuckDB: Postgres -> AWS S3 Bucket (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
