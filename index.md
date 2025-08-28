@@ -30,7 +30,8 @@ Thank you for visiting :)
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
-  * _Tech Stack: SQL, Python, Airbyte, dbt, Snowflake, AWS_
+  * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS_
+  * [Data Observability: Stripe Data Ingested in S3 with Meltano](#data-observability-for-raw-stripe-data-in-s3-with-meltano): Lightweight, script-first checks to ensure trust at the ingestion layer.
   * [Implementing CDC with SCD Techniques: CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
   * [Lead Quality Process: AWS S3 Bucket (Parquet, CSVs) -> Postgres](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
   * [Part 1 - Ingestion - dbt-DuckDB: Postgres -> AWS S3 Bucket (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
@@ -50,6 +51,24 @@ Thank you for visiting :)
 See all projects below!
 
 ## Data Engineering
+---
+
+### Data Observability for Raw Stripe Data in S3
+
+[Check it out here!](https://github.com/caiocvelasco/project09-airbyte-s3-dbt-duckdb-snowflake-observability-ci-cd/tree/main/ingestion/observability)
+
+This project focuses on building a lightweight observability layer for raw Stripe data landing in S3 from Meltano ingestion. The goal is to provide immediate confidence in the raw layer before any transformations.
+
+Key features:
+
+- Verify file presence and non-empty CSVs for each Stripe stream.
+- Flatten nested JSON headers and validate required fields to detect schema drift.
+- Single shell script (`run_checks.sh`) runs all checks with immediate feedback on failures.
+- Configurable via `.env` and using `boto3` for AWS S3 interactions.
+- Ensures downstream transformations are built on a trusted raw layer.
+
+<img src="assets/img/observability.jpg">
+
 ---
 
 ### Implementing an SCD Type 2 dimension from a CDC source using Snowflakes's Stored procedure and Data Quality Checks.
