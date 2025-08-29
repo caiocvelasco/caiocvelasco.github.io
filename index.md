@@ -30,8 +30,8 @@ Thank you for visiting :)
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
-  * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS_
-  * [Data Observability: Stripe Data Ingested in S3 with Meltano](#data-observability-for-raw-stripe-data-in-s3-with-meltano)
+  * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS, Github Actions, CI-CD_
+  * [Data Observability: Stripe Data Ingested in S3 with Meltano and CI-CD](#data-observability-for-raw-stripe-data-in-s3-with-meltano)
   * [Implementing CDC with SCD Techniques: CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
   * [Lead Quality Process: AWS S3 Bucket (Parquet, CSVs) -> Postgres](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
   * [Part 1 - Ingestion - dbt-DuckDB: Postgres -> AWS S3 Bucket (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
@@ -53,19 +53,20 @@ See all projects below!
 ## Data & Analytics Engineering
 ---
 
-### Data Observability for Raw Stripe Data in S3
+### Data Observability for Raw Stripe Data in S3 with CI/CD
 
 [Check it out here!](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/ingestion/observability)
 
-This project focuses on building a lightweight observability layer for raw Stripe data landing in S3 from Meltano ingestion. The goal is to provide immediate confidence in the raw layer before any transformations.
+This project provides a **lightweight observability layer** for raw Stripe data landing in S3 from Meltano ingestion. The goal is to give immediate confidence in the raw layer before any downstream transformations or analytics.
 
 Key features:
 
-- Verify file presence and non-empty CSVs for each Stripe stream.
-- Flatten nested JSON headers and validate required fields to detect schema drift.
-- Single shell script (`run_checks.sh`) runs all checks with immediate feedback on failures.
-- Configurable via `.env` and using `boto3` for AWS S3 interactions.
-- Ensures downstream transformations are built on a trusted raw layer.
+- **File presence and content validation:** Ensures that each expected CSV exists and is not empty for all configured Stripe streams (charges, events, customers, refunds, etc.).
+- **Schema validation:** Flattens nested JSON headers and checks required fields to detect **schema drift** early.
+- **Single entrypoint:** `run_checks.sh` orchestrates all checks and provides immediate feedback on failures.
+- **Configurable environment:** Uses a `.env` file for credentials and configuration.
+- **AWS integration:** Uses `boto3` to interact with S3 securely and efficiently.
+- **Supports CI/CD:** Integrates with GitHub Actions workflows to run automatically or on-demand, ensuring downstream transformations are built on a trusted raw layer.
 
 <img src="assets/img/observability.jpg">
 
