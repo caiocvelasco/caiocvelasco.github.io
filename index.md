@@ -55,7 +55,7 @@ See all projects below!
 
 ### Data Observability for Raw Stripe Data in S3
 
-[Check it out here!](https://github.com/caiocvelasco/project09-airbyte-s3-dbt-duckdb-snowflake-observability-ci-cd/tree/main/ingestion/observability)
+[Check it out here!](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/ingestion/observability)
 
 This project focuses on building a lightweight observability layer for raw Stripe data landing in S3 from Meltano ingestion. The goal is to provide immediate confidence in the raw layer before any transformations.
 
