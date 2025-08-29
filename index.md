@@ -50,7 +50,7 @@ Thank you for visiting :)
 
 See all projects below!
 
-## Data Engineering
+## Data & Analytics Engineering
 ---
 
 ### Data Observability for Raw Stripe Data in S3
