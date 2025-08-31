@@ -31,7 +31,7 @@ Thank you for visiting :)
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
   * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS, Github Actions, CI-CD_
-  * [Data Observability: Stripe Data Ingested in S3 with Meltano and CI-CD](#data-observability-for-raw-stripe-data-in-s3-with-meltano)
+  * [Data Observability for Raw Stripe Data in S3 with CI-CD](#data-observability-for-raw-stripe-data-in-s3-with-ci-cd)
   * [Implementing CDC with SCD Techniques: CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
   * [Lead Quality Process: AWS S3 Bucket (Parquet, CSVs) -> Postgres](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
   * [Part 1 - Ingestion - dbt-DuckDB: Postgres -> AWS S3 Bucket (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
@@ -53,9 +53,9 @@ See all projects below!
 ## Data & Analytics Engineering
 ---
 
-### Data Observability for Raw Stripe Data in S3 with CI/CD
+### Data Observability for Raw Stripe Data in S3 with CI-CD
 
-[Check it out here!](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/ingestion/observability)
+[Check it out here!](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/)
 
 This project provides a **lightweight observability layer** for raw Stripe data landing in S3 from Meltano ingestion. The goal is to give immediate confidence in the raw layer before any downstream transformations or analytics.
 
