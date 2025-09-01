@@ -14,19 +14,13 @@ layout: default
 </body>
 </html>
 
-I'm a Mechanical Engineer from Brazil with a Master in Economics & Public Policy from the University of California Los Angeles (UCLA). 
+I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA. In 2021, I left a PhD in Economics in the Netherlands to take care of my family during the pandemic and transitioned fully into **Data Science**.
 
-In 2021, because of the pandemic, I decided to stop a Ph.D. in Economics in the Netherlands and transition into **Data Science**.
+My journey blends **engineering, economics, and data**, with experience spanning Business Analysis, Consulting, Data & Analytics Engineering, and Data Science across the US, UK, Spain, and Brazil. I thrive at the intersection of **advanced analytics and real-world impact**.
 
-My professional experience ranges from Business (Business Analysis, Product Ownership, and Consulting) to Tech (Data Engineering and Data Science). I also have very good Communication, Teaching and Leadership skills.
+Along the way, I’ve been honored with awards and scholarships from **Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome**. Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** and founded **MePrepara**, an online math prep platform with 140+ videos that helped low-income Brazilian students prepare for GRE/GMAT exams.
 
-My academic experience includes Advanced Math, Statistics, Economics, and Econometrics (Multiple Regression, Causal Inference, Difference in Differences, Instrumental Variables, Time Series) as well as basic knowledge of Corporate Finance and Financial Markets.
-
-I grew up in Rio de Janeiro and education was the only weapon I had to succeed in life. As a consequence of my efforts, I was awarded by Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome.
-
-Moreover, I bring strong entrepreneurial skills to the table. In the past, I helped build Stone Payments, a famous Brazilian FinTech payment company (NASDAQ: STNE), and I created my own mathematics digital product (MePrepara) from scratch with over 140 videos teaching low-income Brazilian students who need to take the GMAT and GRE exams to apply for MBAs/ or PhDs abroad.
-
-Thank you for visiting :)
+I bring not only strong technical skills (Python, SQL, dbt, Snowflake/Redshift, AWS, Looker, Advanced Mathematics, Statistics, Econometrics, and Machine Learning) but also **entrepreneurial drive, teaching ability, and leadership**. Education changed my life, and I aim to use data and technology to create the same opportunities for others.
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
@@ -39,14 +33,13 @@ Thank you for visiting :)
   * [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
   * [Migrating ETL to dbt](#migrating-etl-medallion-architecture-and-kimball-dimensional-modeling-to-dbt-with-dockerized-postgres-jupyter-notebook-and-dbt)
   * [ETL from Crypto API to Tableau](#etl-pipeline-from-crypto-api-to-tableau-csv-with-dockerized-postgres-jupyter-notebook-and-python)
-* **[Applied Data Science](#applied-data-science)**
+* **[Applied Data Science and Machine Learning](#applied-data-science-and-machine-learning)**
   * _Tech Stack: Python (Pandas, Numpy, Statsmodels, Scikit-Learn, CausalInference)_
   * [Causal Inference: Effect of a New Recommendation System](#causal-inference-propensity-score-matching--difference-in-differences-measuring-the-effect-of-a-new-recommendation-system-on-an-e-commerce-marketplace)
   * [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
-  * _Under construction!_
 
 See all projects below!
 
@@ -141,7 +134,7 @@ This ETL pipeline uses Python functions to perform ETL steps, extracting from an
 <img src = "assets/img/project01-etl-tableau.png">
 
 
-## Applied Data Science
+## Applied Data Science and Machine Learning
 ---
 
 ### Causal Inference (Propensity Score Matching & Difference-in-Differences): Measuring the Effect of a New Recommendation System on an E-Commerce Marketplace
@@ -172,7 +165,6 @@ When datasets are large, it can take forever for a Machine Learning model to mak
 Best Practices when cleaning dates, time, and time zone.
 
 ---
-
 
 ### Data Analysis and Inferential Statistics with Python
 
