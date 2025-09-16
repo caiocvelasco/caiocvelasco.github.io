@@ -2,18 +2,6 @@
 layout: default
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:image" content="https://caiocvelasco.github.io/assets/img/etl.png"> <!-- Change this URL to the image you want -->
-  <meta property="og:url" content="https://github.com/caiocvelasco/caiocvelasco.github.io">
-  <title>Caio Velasco</title>
-</head>
-<body>
-</body>
-</html>
-
 I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA. In 2021, I left a PhD in Economics in the Netherlands to take care of my family during the pandemic and transitioned fully into **Data Science**.
 
 My journey blends **engineering, economics, and data**, with experience spanning Business Analysis, Consulting, Data & Analytics Engineering, and Data Science across the US, UK, Spain, and Brazil. I thrive at the intersection of **advanced analytics and real-world impact**.
