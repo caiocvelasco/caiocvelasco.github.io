@@ -28,10 +28,9 @@ I bring not only strong technical skills (Python, SQL, dbt, Snowflake/Redshift, 
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
-* **[Sharing Knowledge](#sharing-knowledge)**
+* **[Advanced Mathematics](#advanced-mathematics)**
   * _Tech Stack: Jekyll, Markdown, LaTeX, GitHub Pages & Quarto_
   * [Foundations of Data Science & Causal Machine Learning: A Mathematical Journey](#foundations-of-data-science--causal-machine-learning-a-mathematical-journey)
-  * [Math](#math)
 
 See all projects below!
 
@@ -165,7 +164,7 @@ Best Practices when cleaning dates, time, and time zone.
 
 --- 
 
-## Sharing Knowledge
+## Advanced Mathematics
 
 I have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform **very complex** subjects into **intuitive** topics for **any audience**.
 
@@ -200,14 +199,5 @@ Throughout the journey, I aim to combine:
 - **Applications** (connections to ML models, econometrics, and real-world data problems).
 
 The book is freely available online in English:  
-🌍 English version: [Foundations of Data Science & Causal Machine Learning — A Mathematical Journey](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)
-
-
-### Math
-Sometimes, I try to contribute to some interesting communities.
-
-* Math StackExchange\
-Here is an [Logical Form of Family of Sets](https://math.stackexchange.com/a/3444354/727414).
-
-* Medium\
-Here is an [Degrees of Freedom - Fully Explained - Part 1, 2, 3](https://medium.com/@caiocvelasco/degrees-of-freedom-a-brief-introduction-c1527340ac49).
+* English version:  
+[Foundations of Data Science & Causal Machine Learning — A Mathematical Journey](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)
