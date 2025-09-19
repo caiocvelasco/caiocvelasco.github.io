@@ -28,6 +28,9 @@ I bring not only strong technical skills (Python, SQL, dbt, Snowflake/Redshift, 
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
+* **[Sharing Knowledge](#sharing-knowledge)**
+  * [Causal Machine Learning & Math & Data Science](#causal-machine-learning--math--data-science)
+  * [Math](#math)
 
 See all projects below!
 
@@ -163,23 +166,47 @@ Best Practices when cleaning dates, time, and time zone.
 
 ## Sharing Knowledge
 
-As hobbies, I play football competitively (forward), it's my passion. I have played in amateur leagues in Brazil, USA, and the Netherlands. I also have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform very complex subjects into intuitive topics for any audience.
+I have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform **very complex** subjects into **intuitive** topics for **any audience**.
 
-I find happiness in the little things in life and I also learned a lot from every mistake I have made so far (and still do).
+I find happiness in the little things in life and I also learned a lot from every mistake I have made so far (and still do). 
+
+As hobbies, I play football competitively (forward), it's my passion. I have played in amateur leagues in Brazil, USA, and the Netherlands. 
 
 ---
 
-### Statistics & Data Science
-I have a passion for teaching and I have been trained by amazing professors in top notch universities around the globe.
+### Causal Machine Learning & Math & Data Science
+I have a passion for teaching and for building bridges between mathematics, statistics, and real-world data problems. Over the years, I have been trained by inspiring professors in top universities around the globe, and I want to share that journey in an open and accessible way.
 
-Therefore, I have started to write a book that belongs to a (future) course I call "**An Intuitive Course in Probability (and Statistics)**, _for data science_. The idea is to provide strong intuition for every major concept while keeping the mathematical formalization and rigor very close. I had this idea after taking a Probability Theory course from MIT. I am a fan. It will be available both in English and Portuguese.
+Currently, I’m working on a long-term project:
+> **Foundations of Data Science & Causal Machine Learning — A Mathematical Journey**.
 
-Please, check the English version [here](https://caiocvelasco.github.io/assets/my_course/An_Intuitive_Course_in_Probability__draft_EN.pdf) and the Portuguese version [aqui!](https://caiocvelasco.github.io/assets/my_course/Um_Curso_Intuitivo_de_Probabilidade__draft_PT.pdf)
+This is an open study-book (and future course) where I document my path to mastering the mathematical foundations behind Data Science, Econometrics, and Causal Machine Learning.
 
-It's a working in progress, so you may find only part of Chapter 1 now.
+The project is structured in phases, each one building on the previous:
+
+- **Phase 1 – Logic & Set Theory**: the language of mathematics, proof techniques, quantifiers, families of sets.  
+- **Phase 2 – Real Analysis**: rigorous calculus, convergence, continuity, differentiation, integration.  
+- **Phase 3 – Linear Algebra**: vector spaces, eigenvalues, diagonalization, matrix decompositions.  
+- **Phase 4 – Functional Analysis & Hilbert Spaces**: normed spaces, orthogonality, projections, reproducing kernel Hilbert spaces (RKHS).  
+- **Phase 5 – Topology & Measure Theory**: open/closed sets, compactness, σ-algebras, Lebesgue measure and integration.  
+- **Phase 6 – Probability**: Kolmogorov’s axioms, random variables, convergence, laws of large numbers, central limit theorem.  
+- **Phase 7 – Mathematical Statistics**: estimation, properties of estimators, hypothesis testing, asymptotics.  
+- **Phase 8 – Causality**: structural causal models (Pearl), potential outcomes (Rubin), invariant prediction (Peters, Schölkopf), and modern Causal Machine Learning (Chernozhukov, Muandet).  
+
+Throughout the journey, I aim to combine:  
+- **Rigor** (formal proofs and measure-theoretic grounding),
+- **Intuition** (clear explanations and examples), and
+- **Applications** (connections to ML models, econometrics, and real-world data problems).
+
+The book is freely available online in English:  
+🌍 English version: [Foundations of Data Science & Causal Machine Learning — A Mathematical Journey](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)
+
 
 ### Math
-Sometimes, I try to contribute to some interesting communities. You can check an example below.
+Sometimes, I try to contribute to some interesting communities.
 
 * Math StackExchange\
-Here is an [example](https://math.stackexchange.com/a/3444354/727414).
+Here is an [Logical Form of Family of Sets](https://math.stackexchange.com/a/3444354/727414).
+
+* Medium\
+Here is an [Degrees of Freedom - Fully Explained - Part 1, 2, 3](https://medium.com/@caiocvelasco/degrees-of-freedom-a-brief-introduction-c1527340ac49).
