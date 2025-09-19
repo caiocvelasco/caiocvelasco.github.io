@@ -29,7 +29,8 @@ I bring not only strong technical skills (Python, SQL, dbt, Snowflake/Redshift, 
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
 * **[Sharing Knowledge](#sharing-knowledge)**
-  * [Causal Machine Learning & Math & Data Science](#causal-machine-learning--math--data-science)
+  * _Tech Stack: Jekyll, Markdown, LaTeX, GitHub Pages & Quarto_
+  * [Foundations of Data Science & Causal Machine Learning: A Mathematical Journey](#foundations-of-data-science--causal-machine-learning-a-mathematical-journey)
   * [Math](#math)
 
 See all projects below!
@@ -174,11 +175,11 @@ As hobbies, I play football competitively (forward), it's my passion. I have pla
 
 ---
 
-### Causal Machine Learning & Math & Data Science
+### Foundations of Data Science & Causal Machine Learning: A Mathematical Journey
 I have a passion for teaching and for building bridges between mathematics, statistics, and real-world data problems. Over the years, I have been trained by inspiring professors in top universities around the globe, and I want to share that journey in an open and accessible way.
 
 Currently, I’m working on a long-term project:
-> **Foundations of Data Science & Causal Machine Learning — A Mathematical Journey**.
+> **Foundations of Data Science & Causal Machine Learning: A Mathematical Journey**.
 
 This is an open study-book (and future course) where I document my path to mastering the mathematical foundations behind Data Science, Econometrics, and Causal Machine Learning.
 
