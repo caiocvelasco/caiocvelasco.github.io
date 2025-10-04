@@ -15,16 +15,13 @@ plugins:
 sidebar:
   - name: CV
     icon: fa-regular fa-circle-user
-    link: /assets/img/US_CV_CaioVelasco_2025.pdf
+    link: /assets/img/CV_CaioVelasco_2025.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/caiocvelasco
   - name: LinkedIn
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/caiovelasco/
-  - name: Twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/CaioCVelasco
   - name: Project Repository
     icon: fa-solid fa-box-archive
     link: https://github.com/caiocvelasco/caiocvelasco.github.io
