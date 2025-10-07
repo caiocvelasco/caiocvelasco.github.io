@@ -10,7 +10,7 @@ Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** as its fi
 
 Throughout my journey, I’ve been recognized with awards and scholarships from **UCLA, Yale University, Lemann Foundation, the General Electric Foundation, and The Club of Rome**.
 
-I bring a mix of **engineering rigor, economic reasoning, and data craftsmanship**—along with an enduring belief that education and technology can expand opportunity everywhere.
+I bring a mix of **engineering, economics, and business** to the table, along with an enduring belief that education and technology can expand opportunity everywhere.
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
