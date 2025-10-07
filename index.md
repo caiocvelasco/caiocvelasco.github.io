@@ -2,13 +2,15 @@
 layout: default
 ---
 
-I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA. In 2021, I left a PhD in Economics in the Netherlands to take care of my family during the pandemic and transitioned fully into **Data Science**.
+I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA. In 2021, I paused a PhD in Economics at Tilburg University (Netherlands) to care for my family during the pandemic — a moment that also marked my transition into data and technology full-time.
 
-My journey blends **engineering, economics, and data**, with experience spanning Business Analysis, Consulting, Data & Analytics Engineering, and Data Science across the US, UK, Spain, and Brazil. I thrive at the intersection of **advanced analytics and real-world impact**.
+Since then, I’ve been working remotely as a **Data & Analytics Engineer**, building end-to-end data platforms with **dbt, Snowflake, Redshift, SQL, Python, and AWS** for global clients across the **US, UK, Spain, and Brazil** — in industries such as **airlines, sports, e-commerce, and IoT**. My focus is on designing scalable data architectures, improving data quality, and enabling AI-driven analytics.
 
-Along the way, I’ve been honored with awards and scholarships from **Yale University, UCLA, General Electric Foundation, Lemann Foundation, and The Club of Rome**. Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** and founded **MePrepara**, an online math prep platform with 140+ videos that helped low-income Brazilian students prepare for GRE/GMAT exams.
+Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** as its first employee and founded **MePrepara**, an online math prep platform with 140+ video lessons that helped low-income Brazilian students prepare for GRE and GMAT exams.
 
-I bring not only strong technical skills (Python, SQL, dbt, Snowflake/Redshift, AWS, Looker, Advanced Mathematics, Statistics, Econometrics, and Machine Learning) but also **entrepreneurial drive, teaching ability, and leadership**. Education changed my life, and I aim to use data and technology to create the same opportunities for others.
+Throughout my journey, I’ve been recognized with awards and scholarships from **UCLA, Yale University, Lemann Foundation, the General Electric Foundation, and The Club of Rome**.
+
+I bring a mix of **engineering rigor, economic reasoning, and data craftsmanship**—along with an enduring belief that education and technology can expand opportunity everywhere.
 
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
