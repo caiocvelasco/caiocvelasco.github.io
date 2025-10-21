@@ -31,7 +31,7 @@ I bring a mix of **engineering, economics, and business** to the table, along wi
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
-* **[Advanced Mathematics, Statistics, and Machine Learning](#advanced-mathematics-statistics-and-machine-learning)**
+* **[[Teaching] Advanced Mathematics, Statistics, and Machine Learning](#advanced-mathematics-statistics-and-machine-learning)**
   * _Tech Stack: Jekyll, Markdown, LaTeX, GitHub Pages & Quarto_
   * [Foundations of Data Science & Causal Machine Learning: A Mathematical Journey](#foundations-of-data-science--causal-machine-learning-a-mathematical-journey)
 
