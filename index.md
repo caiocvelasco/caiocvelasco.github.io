@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA. In 2021, I paused a PhD in Economics at Tilburg University (Netherlands) to care for my family during the pandemic — a moment that also marked my transition into data and technology full-time.
+I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA (full scholarship from the Lemann Foundation). In 2021, I paused a prestigious PhD in Economics in the Netherlands to care for my family during the pandemic - a moment that also marked my transition into data full-time.
 
-Since then, I’ve been working remotely as a **Data & Analytics Engineer**, building end-to-end data platforms with **dbt, Snowflake, Redshift, SQL, Python, and AWS** for global clients across the **US, UK, Spain, and Brazil** — in industries such as **airlines, sports, e-commerce, and IoT**. My focus is on designing scalable data architectures, improving data quality, and enabling AI-driven analytics.
+Since then, I’ve been working remotely as a **Data & Analytics Engineer**, building end-to-end data platforms with **dbt, Snowflake, Redshift, SQL, Python, and AWS** for global clients across the **US, UK, Spain, and Brazil** - in industries such as **airlines, sports, e-commerce, and IoT**. My focus is on designing scalable data architectures, improving data quality, and enabling AI-driven analytics.
 
 Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** as its first employee and founded **MePrepara**, an online math prep platform with 140+ video lessons that helped low-income Brazilian students prepare for GRE and GMAT exams.
 
