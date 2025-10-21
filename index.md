@@ -15,6 +15,7 @@ I bring a mix of **engineering, economics, and business** to the table, along wi
 # Projects
 * **[Data & Analytics Engineering](#data-engineering)**
   * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS, Github Actions, CI-CD_
+  * [Snowflake Architecture, Stored Procedures, Stream, and Tasks - Fundamentals](#snowflake-architecture-stored-procedures-stream-and-tasks---fundamentals)
   * [Data Observability for Raw Stripe Data in S3 with CI-CD](#data-observability-for-raw-stripe-data-in-s3-with-ci-cd)
   * [Implementing CDC with SCD Techniques: CDC Source -> SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
   * [Lead Quality Process: AWS S3 Bucket (Parquet, CSVs) -> Postgres](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
@@ -30,13 +31,25 @@ I bring a mix of **engineering, economics, and business** to the table, along wi
 * **[Data Analytics with Python (Best Practices)](#data-analytics-with-python-best-practices)**
   * [Data Cleaning - Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
   * [Data Cleaning - Parsing Date and Time Zone for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
-* **[Advanced Mathematics](#advanced-mathematics)**
+* **[Advanced Mathematics, Statistics, and Machine Learning](#advanced-mathematics-statistics-and-machine-learning)**
   * _Tech Stack: Jekyll, Markdown, LaTeX, GitHub Pages & Quarto_
   * [Foundations of Data Science & Causal Machine Learning: A Mathematical Journey](#foundations-of-data-science--causal-machine-learning-a-mathematical-journey)
 
 See all projects below!
 
 ## Data & Analytics Engineering
+---
+
+### Snowflake Architecture, Stored Procedures, Stream, and Tasks - Fundamentals
+
+[Check it out here!](https://github.com/caiocvelasco/snowflake-fundamentals-data-engineering)
+
+This guide covers the **four essential pillars** of Snowflake mastery:  
+1. Snowflake Architecture & Performance Fundamentals
+2. Procedural SQL, Streams & Tasks  
+3. AWS S3 Integration & Data Loading  
+4. Orchestration & ELT Design
+
 ---
 
 ### Data Observability for Raw Stripe Data in S3 with CI-CD
@@ -166,7 +179,7 @@ Best Practices when cleaning dates, time, and time zone.
 
 --- 
 
-## Advanced Mathematics
+## Advanced Mathematics, Statistics, and Machine Learning
 
 I have a strong passion for teaching and educating others. A personal characteristic I am proud of is the ability to transform **very complex** subjects into **intuitive** topics for **any audience**.
 
