@@ -13,7 +13,7 @@ Throughout my journey, I’ve been recognized with awards and scholarships from 
 I bring a mix of **engineering, economics, and business** to the table, along with an enduring belief that education and technology can expand opportunity everywhere.
 
 # Projects
-* **[Data & Analytics Engineering](#data-engineering)**
+* **[Data & Analytics Engineering](#data--analytics-engineering)**
   * _Tech Stack: SQL, Python, Meltano, dbt, Snowflake, AWS, Github Actions, CI-CD_
   * [Snowflake Architecture, Stored Procedures, Stream, and Tasks - Fundamentals](#snowflake-architecture-stored-procedures-stream-and-tasks---fundamentals)
   * [Data Observability for Raw Stripe Data in S3 with CI-CD](#data-observability-for-raw-stripe-data-in-s3-with-ci-cd)
