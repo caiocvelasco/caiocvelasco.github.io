@@ -2,15 +2,17 @@
 layout: default
 ---
 
-I’m a Mechanical Engineer from Brazil with a Master’s in Economics & Public Policy from UCLA (full scholarship from the Lemann Foundation). In 2021, I paused a prestigious PhD in Economics in the Netherlands to care for my family during the pandemic - a moment that also marked my transition into data full-time.
+Data & Analytics Engineer with a background in Mechanical Engineering from the Federal University of Rio de Janeiro (UFRJ) and a Master’s in Economics & Public Policy from UCLA (full scholarship from the Lemann Foundation).
 
-Since then, I’ve been working remotely as a **Data & Analytics Engineer**, building end-to-end data platforms with **dbt, Snowflake, Redshift, SQL, Python, and AWS** for global clients across the **US, UK, Spain, and Brazil** - in industries such as **airlines, sports, e-commerce, and IoT**. My focus is on designing scalable data architectures, improving data quality, and enabling AI-driven analytics.
+Over the past ~4 years, I’ve built end-to-end data platforms using dbt, Snowflake, Redshift, SQL, Python, and AWS for global clients across the **US, UK, Spain, and Brazil** - spanning airlines, sports, e-commerce, and IoT.
 
-Earlier in my career, I helped build **Stone Payments (NASDAQ: STNE)** as its first employee and founded **MePrepara**, an online math prep platform with 140+ video lessons that helped low-income Brazilian students prepare for GRE and GMAT exams.
+My work centers on scalable data architectures, data quality, and analytics foundations that enable AI-driven products and business insights. Alongside platform engineering, I’m increasingly working at the intersection of **data science** and **applied ML** - with particular interest in causal inference, experimentation, and LLM-enabled systems.
+
+Earlier in my career, I was the first employee at Stone Payments (NASDAQ: STNE) and founded an online math prep platform that helped low-income Brazilian students prepare for GRE and GMAT exams.
+
+I bring a mix of engineering rigor, economic thinking, and academic grounding in causal inference, with a strong belief that technology and education can expand opportunity.
 
 Throughout my journey, I’ve been recognized with awards and scholarships from **UCLA, Yale University, Lemann Foundation, the General Electric Foundation, and The Club of Rome**.
-
-I bring a mix of **engineering, economics, and business** to the table, along with an enduring belief that education and technology can expand opportunity everywhere.
 
 # Projects
 * **[Data & Analytics Engineering](#data--analytics-engineering)**
