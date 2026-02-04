@@ -14,8 +14,6 @@ Earlier, I was the first employee at Stone Payments (NASDAQ: STNE) and founded a
 
 Throughout my journey, I’ve been recognized with awards and scholarships from _UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, and The Club of Rome_.
 
-# Projects
-
 ## **Data & Analytics Engineering**
 
 ### **1. Data Ingestion & Integration**
@@ -24,8 +22,6 @@ _Focus: reliable data movement, schema control, and cost-efficient storage_
 - [Ingestion: dbt-DuckDB - Postgres → AWS S3 (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
 - [ETL Pipeline: Crypto API → Tableau](#etl-pipeline-from-crypto-api-to-tableau-csv-with-dockerized-postgres-jupyter-notebook-and-python)
 
----
-
 ### **2. Transformation & Data Modeling**
 _Focus: analytical correctness, business logic, and scalable modeling_
 
@@ -33,14 +29,10 @@ _Focus: analytical correctness, business logic, and scalable modeling_
 - [How to migrate an ETL to dbt](#migrating-etl-medallion-architecture-and-kimball-dimensional-modeling-to-dbt-with-dockerized-postgres-jupyter-notebook-and-dbt)
 - [Fundamentals of Snowflake Architecture, Stored Procedures, Streams, and Tasks](#snowflake-architecture-stored-procedures-stream-and-tasks---fundamentals)
 
----
-
 ### **3. Change Data Capture & Slowly Changing Dimensions**
 _Focus: historical correctness and temporal consistency_
 
 - [Implementing CDC with SCD Techniques: CDC Source → SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
-
----
 
 ### **4. Data Quality, Observability & Reliability**
 _Focus: trust, monitoring, and CI/CD-driven quality guarantees_
@@ -48,18 +40,15 @@ _Focus: trust, monitoring, and CI/CD-driven quality guarantees_
 - [Data Observability for Raw Stripe Data in S3 with CI/CD](#data-observability-for-raw-stripe-data-in-s3-with-ci-cd)
 - [Lead Quality Process: S3 (Parquet, CSVs) → Postgres (Bronze / Silver / Gold)](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
 
----
-
 ### **5. Analytics & Machine Learning Enablement**
 _Focus: ML-ready data, feature pipelines, and reproducibility_
 
 - [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
 
+---
 
 ## **Applied Data Science & Machine Learning**
 _Tech Stack: Python (Pandas, NumPy, Statsmodels, scikit-learn, CausalInference)_
-
----
 
 ### **1. Causal Inference & Experimentation**
 _Focus: estimating impact, not just predicting outcomes_
@@ -67,14 +56,10 @@ _Focus: estimating impact, not just predicting outcomes_
 - [Causal Inference: Effect of a New Recommendation System](#causal-inference-propensity-score-matching--difference-in-differences-measuring-the-effect-of-a-new-recommendation-system-on-an-e-commerce-marketplace)
 - [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
 
----
-
 ### **2. Applied Machine Learning & Predictive Modeling**
 _Focus: translating data into actionable signals_
 
 - [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
-
----
 
 ### **3. Data Analysis & Modeling Foundations**
 _Focus: analytical rigor, feature preparation, and reproducibility_
@@ -82,11 +67,10 @@ _Focus: analytical rigor, feature preparation, and reproducibility_
 - [Data Cleaning: Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
 - [Data Cleaning: Parsing Date and Time Zones for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
 
+---
 
 ## **Teaching, Mathematical Foundations & Statistical Thinking**
 _Tech Stack: Quarto, Markdown, LaTeX, GitHub Pages_
-
----
 
 ### **Foundations of Data Science, Statistics & Causal Machine Learning**
 _Focus: rigorous mathematical foundations, intuition-building, and applied causal reasoning_
