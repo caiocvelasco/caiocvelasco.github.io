@@ -2,7 +2,6 @@ title: Caio Velasco
 logo: /assets/img/caio_ucla.JPG
 email: caiocvelasco at gmail dot com
 blank_title: true
-description: "Data Science Portfolio"
 show_downloads: false
 google_analytics: G-TWEB84PHGE
 color-scheme: auto
@@ -15,7 +14,7 @@ plugins:
 sidebar:
   - name: CV
     icon: fa-regular fa-circle-user
-    link: /assets/img/CV_CaioVelasco_2025.pdf
+    link: /assets/img/en_CV_CaioVelasco_2026.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/caiocvelasco
