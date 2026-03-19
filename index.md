@@ -4,7 +4,7 @@ layout: default
 
 **Data Scientist with strong foundations in data engineering**, focused on building reliable analytics and data platforms that support statistical analysis and decision-making.
 
-Over the past ~4 years, I’ve worked across the **US, UK, Spain, and Brazil** designing end-to-end data platforms using _dbt, Snowflake, Redshift, SQL, Python, and AWS_ in industries including airlines, sports, e-commerce, and IoT.
+Over the past ~4 years, I’ve worked across the **US, UK, Spain, and Brazil** designing end-to-end data platforms using _dbt, Snowflake, Redshift, Databricks, SQL, Python, and AWS_ in industries including airlines, sports, e-commerce, and IoT.
 
 My work sits at the intersection of **analytics engineering and data science**, with a strong background in **causal inference and statistical modeling** from academia, and growing industry exposure to applied modeling.
 
@@ -19,31 +19,31 @@ Throughout my journey, I’ve been recognized with awards and scholarships from 
 ### **1. Data Ingestion & Integration**
 _Focus: reliable data movement, schema control, and cost-efficient storage_
 
-- [Ingestion: dbt-DuckDB - Postgres → AWS S3 (Parquet)](#part-1-of-2---leveraging-dbt-duckdb-to-perform-an-ingestion-step-postgres---aws-s3-bucket-parquet)
-- [ETL Pipeline: Crypto API → Tableau](#etl-pipeline-from-crypto-api-to-tableau-csv-with-dockerized-postgres-jupyter-notebook-and-python)
+- [Ingestion: dbt-DuckDB - Postgres → AWS S3 (Parquet)](#ingestion-dbt-duckdb--postgres--aws-s3-parquet)
+- [ETL Pipeline: Crypto API → Tableau](#etl-pipeline-crypto-api--tableau-csv)
 
 ### **2. Transformation & Data Modeling**
 _Focus: analytical correctness, business logic, and scalable modeling_
 
-- [Transformation: dbt-Snowflake - S3 (Parquet) → Snowflake External Tables](#part-2-of-2---leveraging-dbt-snowflake-to-perform-a-transformation-step-parquet-in-s3---snowflake-external-tables---transformation-in-snowflake-via-dbt)
-- [How to migrate an ETL to dbt](#migrating-etl-medallion-architecture-and-kimball-dimensional-modeling-to-dbt-with-dockerized-postgres-jupyter-notebook-and-dbt)
-- [Fundamentals of Snowflake Architecture, Stored Procedures, Streams, and Tasks](#snowflake-architecture-stored-procedures-stream-and-tasks---fundamentals)
+- [Transformation: dbt-Snowflake - S3 (Parquet) → Snowflake External Tables](#transformation-dbt-snowflake--s3-parquet--snowflake-external-tables)
+- [How to migrate an ETL to dbt](#migrating-etl-medallion-architecture--kimball-modeling-to-dbt)
+- [Fundamentals of Snowflake Architecture, Stored Procedures, Streams, and Tasks](#fundamentals-of-snowflake-architecture-stored-procedures-streams-and-tasks)
 
 ### **3. Change Data Capture & Slowly Changing Dimensions**
 _Focus: historical correctness and temporal consistency_
 
-- [Implementing CDC with SCD Techniques: CDC Source → SCD Type 2](#implementing-an-scd-type-2-dimension-from-a-cdc-source-using-snowflakess-stored-procedure-and-data-quality-checks)
+- [Implementing CDC with SCD Techniques: CDC Source → SCD Type 2](#implementing-cdc-with-scd-type-2-in-snowflake)
 
 ### **4. Data Quality, Observability & Reliability**
 _Focus: trust, monitoring, and CI/CD-driven quality guarantees_
 
-- [Data Observability for Raw Stripe Data in S3 with CI/CD](#data-observability-for-raw-stripe-data-in-s3-with-ci-cd)
-- [Lead Quality Process: S3 (Parquet, CSVs) → Postgres (Bronze / Silver / Gold)](#lead-quality-process-reading-parquet-and-csvs-from-s3---transforming-with-object-oriented-design---postgres-bronze-silver-gold-layers)
+- [Data Observability for Raw Stripe Data in S3 with CI/CD](#data-observability-for-raw-stripe-data-in-s3-with-cicd)
+- [Lead Quality Process: S3 (Parquet, CSVs) → Postgres (Bronze / Silver / Gold)](#lead-quality-process-s3--postgres-bronze--silver--gold)
 
 ### **5. Analytics & Machine Learning Enablement**
 _Focus: ML-ready data, feature pipelines, and reproducibility_
 
-- [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
+- [ETL for Machine Learning (Churn Prediction)](#etl-for-machine-learning-churn-prediction)
 
 ---
 
@@ -53,19 +53,19 @@ _Tech Stack: Python (Pandas, NumPy, Statsmodels, scikit-learn, CausalInference)_
 ### **1. Causal Inference & Experimentation**
 _Focus: estimating impact, not just predicting outcomes_
 
-- [Causal Inference: Effect of a New Recommendation System](#causal-inference-propensity-score-matching--difference-in-differences-measuring-the-effect-of-a-new-recommendation-system-on-an-e-commerce-marketplace)
-- [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences-measuring-the-effect-of-a-new-customer-satisfaction-program-on-an-airline-company)
+- [Causal Inference: Effect of a New Recommendation System](#causal-inference-propensity-score-matching--difference-in-differences)
+- [Causal Inference: Effect of a Customer-Satisfaction Program](#causal-inference-difference-in-differences)
 
 ### **2. Applied Machine Learning & Predictive Modeling**
 _Focus: translating data into actionable signals_
 
-- [ETL for Machine Learning (Churn Prediction)](#etl-medallion-architecture-and-kimball-dimensional-modeling-for-machine-learning-churn-prediction-with-dockerized-postgres-jupyter-notebook-and-python)
+- [ETL for Machine Learning (Churn Prediction)](#etl-for-machine-learning-churn-prediction)
 
 ### **3. Data Analysis & Modeling Foundations**
 _Focus: analytical rigor, feature preparation, and reproducibility_
 
-- [Data Cleaning: Preparing Categorical Data for Modeling](#data-cleaning---preparing-categorical-data-for-modeling)
-- [Data Cleaning: Parsing Date and Time Zones for Modeling](#data-cleaning---parsing-date-and-time-zone-for-modeling)
+- [Data Cleaning: Preparing Categorical Data for Modeling](#data-cleaning-preparing-categorical-data-for-modeling)
+- [Data Cleaning: Parsing Date and Time Zones for Modeling](#data-cleaning-parsing-date-and-time-zones-for-modeling)
 
 ---
 
