@@ -2,15 +2,15 @@
 layout: default
 ---
 
-**Data Scientist with strong foundations in data engineering**, focused on building reliable analytics and data platforms that support statistical analysis and decision-making.
+**Senior Analytics Engineer with strong foundations in data science**, focused on building reliable analytics-ready data platforms, reporting layers, and predictive models that support statistical analysis and decision-making.
 
-Over the past ~4 years, I’ve worked across the **US, UK, Spain, and Brazil** designing end-to-end data platforms using _dbt, Snowflake, Redshift, Databricks, SQL, Python, and AWS_ in industries including airlines, sports, e-commerce, and IoT.
+Over the past 4+ years, I’ve worked with international clients across the **US, UK, Spain, Brazil, and Europe**, designing data platforms and warehouse transformations with _dbt, Snowflake, Redshift, Databricks, SQL, Python, CI/CD, and AWS_ in industries including insurance, airlines, sports, e-commerce, and IoT.
 
-My work sits at the intersection of **analytics engineering and data science**, with a strong background in **causal inference and statistical modeling** from academia, and growing industry exposure to applied modeling.
+My work sits at the intersection of **analytics engineering, data science, and applied statistics**. Alongside modern data platform work, I have developed **churn and reactivation propensity models** for a football club loyalty program in Brazil and contributed to econometric analysis for a **World Bank** research project.
 
-I hold a background in Mechanical Engineering from **UFRJ** (Federal Univeristy of Rio de Janeiro) and a Master’s in Economics & Public Policy from **UCLA** (University of California Los Angeles), with a full scholarship from the Lemann Foundation.
+I am a Mechanical Engineer from **UFRJ** (_cum laude_) and hold a Master’s in Economics & Public Policy from **UCLA**, supported by a full scholarship from the **Lemann Foundation**. My academic background includes rigorous training in mathematics, statistics, econometrics, machine learning, and causal inference.
 
-Earlier, I was the first employee at Stone Payments (NASDAQ: STNE) and founded an online math prep platform that helped low-income Brazilian students prepare for GRE and GMAT exams, where I improved my **entrepreneurial mindset** and **communication skills**.
+Earlier, I was the first employee at **Stone Payments / StoneCo (NASDAQ: STNE)**, working directly with the founders, and founded an online math prep platform that helped low-income Brazilian students prepare for the GRE and GMAT exams.
 
 Throughout my journey, I’ve been recognized with awards and scholarships from _UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, and The Club of Rome_.
 
