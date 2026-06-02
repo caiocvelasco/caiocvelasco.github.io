@@ -2,17 +2,17 @@
 layout: default
 ---
 
-**Senior Analytics Engineer with strong foundations in data science**, focused on building reliable analytics-ready data platforms, reporting layers, and predictive models that support statistical analysis and decision-making.
+**Senior Data Analytics Engineer with strong foundations in data science and causal inference**, focused on building reliable analytics-ready data platforms, reporting layers, and predictive models that support statistical analysis and decision-making.
 
-Over the past 4+ years, I’ve worked with international clients across the **US, UK, Spain, Brazil, and Europe**, designing data platforms and warehouse transformations with _dbt, Snowflake, Redshift, Databricks, SQL, Python, CI/CD, and AWS_ in industries including insurance, airlines, sports, e-commerce, and IoT.
+Over the past 5+ years, I’ve worked with international clients across the **US, UK, Spain, Brazil, and Europe**, designing data platforms and warehouse transformations with _dbt, Snowflake, Redshift, Databricks, SQL, Python, CI/CD, and AWS_ in industries including insurance, airlines, sports, e-commerce, and IoT.
 
-My work sits at the intersection of **analytics engineering, data science, and applied statistics**. Alongside modern data platform work, I have developed **churn and reactivation propensity models** for a football club loyalty program in Brazil and contributed to econometric analysis for a **World Bank** research project.
+My work sits at the intersection of **data engineering, data science, and applied statistics**. Alongside modern data platform work, I have also developed **churn and reactivation propensity models** for a football club loyalty program in Brazil and contributed to econometric analysis for a **World Bank** research project.
 
-I am a Mechanical Engineer from **UFRJ** (_cum laude_) and hold a Master’s in Economics & Public Policy from **UCLA**, supported by a full scholarship from the **Lemann Foundation**. My academic background includes rigorous training in mathematics, statistics, econometrics, machine learning, and causal inference.
+I am a Mechanical Engineer from **UFRJ** (_cum laude_) and hold a Master’s in Economics & Public Policy from **UCLA**, supported by a full scholarship from the **Lemann Foundation**.
 
-Earlier, I was the first employee at **Stone Payments / StoneCo (NASDAQ: STNE)**, working directly with the founders, and founded an online math prep platform that helped low-income Brazilian students prepare for the GRE and GMAT exams.
+Throughout my journey, I’ve been recognized with awards and scholarships from **UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, and The Club of Rome**. 
 
-Throughout my journey, I’ve been recognized with awards and scholarships from _UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, and The Club of Rome_.
+During high school, I participated in national physics and mathematics olympiads and competed in semi-professional football (mid-forward) and handball (center) championships.
 
 ## **Data & Analytics Engineering**
 
