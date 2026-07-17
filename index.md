@@ -2,17 +2,17 @@
 layout: default
 ---
 
-**Senior Data Analytics Engineer with strong foundations in data science and causal inference**, focused on building reliable analytics-ready data platforms, reporting layers, and predictive models that support statistical analysis and decision-making.
+**Senior Data & Analytics Engineer** with 6+ years of experience building modern data platforms, analytics products, trusted data models, reporting layers, and predictive solutions that support better decision-making.
 
-Over the past 5+ years, I’ve worked with international clients across the **US, UK, Spain, Brazil, and Europe**, designing data platforms and warehouse transformations with _dbt, Snowflake, Redshift, Databricks, SQL, Python, CI/CD, and AWS_ in industries including insurance, airlines, sports, e-commerce, and IoT.
+I have worked with international clients across the **US, UK, Brazil, and Europe**, contributing to projects spanning data ingestion, platform migrations, warehouse transformation, dimensional modeling, data quality, governance, and self-service analytics. My core stack includes **dbt, Snowflake, Databricks, Redshift, SQL, Python, and AWS**, with experience across insurance, aviation, sports, e-commerce, and IoT.
 
-My work sits at the intersection of **data engineering, data science, and applied statistics**. Alongside modern data platform work, I have also developed **churn and reactivation propensity models** for a football club loyalty program in Brazil and contributed to econometric analysis for a **World Bank** research project.
+My work sits at the intersection of **analytics engineering, data engineering, and applied data science**. Alongside building analytics-ready data foundations, I have developed **churn and reactivation propensity models** for a Brazilian football club loyalty program and contributed to econometric research for a **World Bank** project.
 
-I am a Mechanical Engineer from **UFRJ** (_cum laude_) and hold a Master’s in Economics & Public Policy from **UCLA**, supported by a full scholarship from the **Lemann Foundation**.
+I am a Mechanical Engineer from **UFRJ**, where I graduated *cum laude*, and hold a Master’s in Economics, Data Science, and Public Policy from **UCLA**, completed with full scholarships from the Lemann Foundation and the Meyer and Renee Luskin family.
 
-Throughout my journey, I’ve been recognized with awards and scholarships from **UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, and The Club of Rome**. 
+Throughout my academic and professional journey, I have received scholarships and recognition from institutions including **UCLA, Yale University, the Lemann Foundation, the General Electric Foundation, Goldman Sachs, and The Club of Rome**.
 
-During high school, I participated in national physics and mathematics olympiads and competed in semi-professional football (mid-forward) and handball (center) championships.
+Earlier in life, I participated in national physics and mathematics olympiads and competed (and still do) in semi-professional football and handball championships.
 
 ## **Data & Analytics Engineering**
 
