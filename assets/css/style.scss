@@ -54,6 +54,11 @@ strong {
   font-weight: 650;
 }
 
+
+/* ========================================
+   LINKS
+   ======================================== */
+
 a {
   color: #2563a6;
 }
@@ -61,6 +66,16 @@ a {
 a:hover,
 a:focus {
   color: #163f6f;
+}
+
+/* Keep bold text inside hyperlinks blue */
+a strong {
+  color: inherit;
+}
+
+a:hover strong,
+a:focus strong {
+  color: inherit;
 }
 
 
