@@ -4,15 +4,19 @@ layout: default
 
 **Data Scientist** focused on **Experimentation, Causal Inference, and Machine Learning**, with **6+ years of experience** across applied data science, data engineering, and quantitative research.
 
-My work sits at the intersection of **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for customer reactivation, conducted applied econometric research at **UCLA** and **Royal Holloway University of London**, and worked on a **World Bank** research project examining climate change and agricultural productivity.
+My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for customer reactivation, conducted applied econometric research at **UCLA** and **Royal Holloway University of London**, and contributed to a **World Bank** research project on climate change and agricultural productivity.
 
-Alongside Data Science, I bring several years of hands-on experience building production analytics systems with **Python, SQL, dbt, Snowflake, Databricks, Redshift, and AWS**. This engineering background allows me to work across the full analytical lifecycle — from reliable data foundations to modeling, measurement, and decision-making.
+I also bring a strong engineering background, with hands-on experience building production analytics systems using **Python, SQL, dbt, Snowflake, Databricks, Redshift, and AWS** — allowing me to work from reliable data foundations through modeling, measurement, and decision-making.
 
-I am a **Mechanical Engineer from UFRJ**, where I graduated *cum laude*, and hold a **Master’s in Economics & Public Policy from UCLA**, with further doctoral training in Economics at **Tilburg University**. My academic training has included **Econometrics, Causal Inference, Statistics, and Data Science**.
+I am a **Mechanical Engineer from UFRJ**, where I graduated *cum laude*, and hold a **Master’s in Economics & Public Policy from UCLA**, with further doctoral training in Economics at **Tilburg University** in the Netherlands. My academic background includes **Econometrics, Causal Inference, Statistics, and Data Science**.
 
-I am particularly interested in how companies can use **experimentation and causal inference to distinguish correlation from causation and make better product and business decisions**. I am also developing **Mathematics & Statistics Foundations for Causal Machine Learning**, an educational project connecting probability, statistical inference, econometrics, and modern causal methods.
-
-Beyond technical work, I have built a community of **6,000+ followers on LinkedIn**, where I increasingly write about Data Science, statistics, experimentation, and causal inference. I have lived and worked internationally across the **USA, Europe, and Brazil**, and continue to play competitive amateur football.
+- **Current Focus:** 
+    - deepening my work in **Experimentation, Causal Inference, and Causal Machine Learning**,
+    - developing **Mathematics & Statistics Foundations for Causal Machine Learning**, an educational project connecting probability, statistical inference, econometrics, and modern causal methods.
+- **Beyond Work:** 
+    - built a community of **6,000+ followers on LinkedIn**,
+    - lived and worked across the **USA, Europe, and Brazil**,
+    - continue to play **competitive amateur football** wherever I go.
 
 ## **Applied Data Science, Experimentation & Causal Inference**
 
