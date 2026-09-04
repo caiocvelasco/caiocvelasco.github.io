@@ -8,8 +8,10 @@ My work combines **statistical reasoning, predictive modeling, causal inference,
 
 I also bring a strong engineering background, with hands-on experience building production analytics systems using **Python, SQL, dbt, Snowflake, Databricks, Redshift, and AWS** — allowing me to work from reliable data foundations through modeling, measurement, and decision-making.
 
-I am a **Mechanical Engineer from UFRJ**, where I graduated *cum laude*, and hold a **Master’s in Economics & Public Policy from UCLA**, with further doctoral training in Economics at **Tilburg University** in the Netherlands. My academic background includes **Econometrics, Causal Inference, Statistics, and Data Science**.
-
+- **Academic Training:**
+    - **Mechanical Engineer from UFRJ**, where I graduated *cum laude* and was awarded the General Electric Schoalrship.
+    - **Master in Economics & Public Policy from UCLA**, awarded the Lemann Foundation Scholarship and the Luskin Scholarship.
+    - Further doctoral training in Economics at **Tilburg University** in the Netherlands, awarded the Koopman's Scholarship.
 - **Current Focus:** 
     - deepening my work in **Experimentation, Causal Inference, and Causal Machine Learning**,
     - developing **Mathematics & Statistics Foundations for Causal Machine Learning**, an educational project connecting probability, statistical inference, econometrics, and modern causal methods.
@@ -22,26 +24,27 @@ I am a **Mechanical Engineer from UFRJ**, where I graduated *cum laude*, and hol
 
 My current focus is on **experimentation, causal inference, statistical reasoning, and applied machine learning**.
 
-I am currently developing new case studies and technical notes in these areas.
-
 **Coming soon:**
 - A/B Testing & Experiment Design
 - Statistical Inference for Experimentation
 - Causal Inference in Observational Data
 - Applied Machine Learning for Business Decisions
 
-### Selected Previous Work
+**Selected Projects:**
 
-- [Causal Inference: Customer-Satisfaction Program](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)
-- [Causal Inference: Recommendation System Impact](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)
+- [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)  
+  Estimated the causal impact of a customer-satisfaction initiative using **Difference-in-Differences** to separate program effects from underlying time trends.
+
+- [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)  
+  Estimated the impact of a recommendation system using **Propensity Score Matching + Difference-in-Differences**, supporting product evaluation with observational data.
 
 ## **Mathematics, Statistics & Causal Machine Learning**
 
 I am developing an open educational project on the **mathematical and statistical foundations of Data Science, Econometrics, and Causal Machine Learning**.
 
-[**Foundations of Data Science & Causal Machine Learning →**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)
+- [**Foundations Mathematics and Statistics for Data Science & Causal Machine Learning**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)
 
-## **Selected Data & Analytics Engineering Work**
+## **Data & Analytics Engineering**
 
 A selection of projects from my background building production data and analytics systems.
 
