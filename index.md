@@ -33,9 +33,11 @@ My current focus is on **experimentation, causal inference, statistical reasonin
 **Selected Projects:**
 
 - [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)  
+  
   Estimated the causal impact of a customer-satisfaction initiative using **Difference-in-Differences** to separate program effects from underlying time trends.
 
 - [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)  
+  
   Estimated the impact of a recommendation system using **Propensity Score Matching + Difference-in-Differences**, supporting product evaluation with observational data.
 
 ## **Mathematics, Statistics & Causal Machine Learning**
