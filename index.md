@@ -21,26 +21,30 @@ I also bring a strong engineering background, with hands-on experience building 
 
 ## **Experimentation & Causal Inference**
 
-My current focus is on **experimentation, causal inference, statistical reasoning, and applied machine learning**.
+My current focus is on **experimentation, causal inference, statistical reasoning, and causal machine learning**, combining applied industry problems with rigorous mathematical foundations.
 
-**Coming soon:**
+### **Courses & Educational Projects**
+
+- [**Fundamentos para Inferência Causal**](https://caiocvelasco.github.io/curso-completo-matematica-estatistica-fundamentos-inferencia-causal/)  
+  A **Portuguese-language course for Brazilian data professionals**, building Causal Inference from the ground up — from mathematics, probability, and statistical inference to regression, causal methods, and an **end-to-end project taken into production**.
+
+- [**Mathematics & Statistics Foundations for Causal Machine Learning**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)  
+  A more **theoretical and globally oriented project**, focused on the advanced mathematical and statistical foundations behind **Causal Machine Learning**, connecting probability, statistical inference, econometrics, and modern causal methods.
+
+### **Coming Soon**
+
 - A/B Testing & Experiment Design
 - Statistical Inference for Experimentation
 - Causal Inference in Observational Data
 - Applied Machine Learning for Business Decisions
 
-**Selected Projects:**
+### **Selected Projects**
 
 - [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)  
   Estimated the causal impact of a customer-satisfaction initiative using **Difference-in-Differences** to separate program effects from underlying time trends.
 
 - [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)  
   Estimated the impact of a recommendation system using **Propensity Score Matching + Difference-in-Differences**, supporting product evaluation with observational data.
-
-## **Mathematics, Statistics & Causal Machine Learning**
-
-- [**Foundations Mathematics and Statistics for Data Science & Causal Machine Learning**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)  
-  I am developing an open educational project on the mathematical and statistical foundations of Causal Machine Learning.
 
 ## **Data & Analytics Engineering**
 
