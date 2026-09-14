@@ -4,7 +4,7 @@ layout: default
 
 **Data Scientist** focused on **Experimentation, Causal Inference, and Machine Learning**, with **6+ years of experience** across applied data science, data engineering, and quantitative research.
 
-My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for customer reactivation, conducted applied econometric research at **UCLA** and **Royal Holloway University of London**, and contributed to a **World Bank** research project on climate change and agricultural productivity.
+My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil’s largest football clubs**, conducted applied econometric research at **UCLA** and **Royal Holloway University of London**, and contributed to a **World Bank** research project on climate change and agricultural productivity.
 
 I also bring a strong engineering background, with hands-on experience building production analytics systems using **Python, SQL, dbt, Snowflake, Databricks, Redshift, and AWS**, allowing me to work from reliable data foundations through modeling, measurement, and decision-making.
 
