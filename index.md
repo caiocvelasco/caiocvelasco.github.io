@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Data Scientist** focused on **Experimentation, Causal Inference, and Machine Learning**, with **6+ years of experience** across Data Engineering, Analytics Engineering and Quantitative Research.
+**Data Scientist** focused on **Experimentation, Causal Inference, and Machine Learning**, with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research.
 
 My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil’s largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project. 
 
