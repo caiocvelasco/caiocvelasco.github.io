@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Data Scientist** focused on **Experimentation, Causal Inference, and Machine Learning**, with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research.
+**Data Scientist** with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research. My current interests lie at the intersection of **AI Governance, Causal Inference, and Evidence-Based Public Policy**.
 
 My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil’s largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project. 
 
@@ -13,11 +13,18 @@ I have also designed and migrated **production-grade data pipelines and analytic
     - **Master in Economics & Public Policy from UCLA**, awarded the Lemann Foundation Scholarship and the Luskin Scholarship
     - (unfinished) **doctoral training in Economics** at **Tilburg University** in the Netherlands, awarded the Koopman's Scholarship
 - **Current Focus:** 
-    - deepening my work in **Experimentation, Causal Inference, and Causal Machine Learning**
+    - exploring **AI governance, societal impact assessment, and evidence-based policy**, while deepening my work in **Causal Inference, Experimentation, and Causal Machine Learning**
 - **Beyond Work:** 
-    - built a community of **6,000+ followers on** [**LinkedIn**](https://www.linkedin.com/in/caiovelasco/)
+    - built a community of **6,500+ followers on** [**LinkedIn**](https://www.linkedin.com/in/caiovelasco/)
     - lived and worked across the **USA, Europe, and Brazil**
     - continue to play **competitive amateur football** wherever I go
+
+## **AI Governance & Societal Impact**
+
+I am exploring how **empirical evidence, causal reasoning, and public policy** can inform the assessment and governance of AI systems, particularly their societal impacts and implications for the public interest.
+
+- [**AI Governance Evidence Lab**](https://caiocvelasco.github.io/ai-governance-evidence-lab/)  
+  An independent research concept exploring evidence-based approaches to evaluating AI systems and their societal impacts.
 
 ## **Experimentation & Causal Inference**
 
@@ -25,18 +32,8 @@ My current focus is on **experimentation, causal inference, statistical reasonin
 
 ### **Courses & Educational Projects**
 
-- [**Fundamentos para Inferência Causal**](https://caiocvelasco.github.io/curso-completo-matematica-estatistica-fundamentos-inferencia-causal/)  
-  A **Portuguese-language course for Brazilian data professionals**, building Causal Inference from the ground up — from mathematics, probability, and statistical inference to regression, causal methods, and an **end-to-end project taken into production**.
-
 - [**Mathematics & Statistics Foundations for Causal Machine Learning**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)  
   A more **theoretical and globally oriented project**, focused on the advanced mathematical and statistical foundations behind **Causal Machine Learning**, connecting probability, statistical inference, econometrics, and modern causal methods.
-
-### **Coming Soon**
-
-- A/B Testing & Experiment Design
-- Statistical Inference for Experimentation
-- Causal Inference in Observational Data
-- Applied Machine Learning for Business Decisions
 
 ### **Selected Projects**
 
