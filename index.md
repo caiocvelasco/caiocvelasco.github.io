@@ -25,7 +25,7 @@ I am exploring how **AI systems, empirical evidence, and causal reasoning** can 
 
 Through [**AI Governance Lab**](https://aigovernancelab.org/), I aim to connect the design, development, and rigorous evaluation of AI systems, with particular interest in human-AI decision-making, societal impact, and real-world applications.
 
-## Quantitative Methods & Applied Research
+## **Quantitative Methods & Applied Research**
 
 My background includes **statistics, econometrics, applied data science, and quantitative research**, with previous projects exploring **causal inference** and **program evaluation**. 
 
