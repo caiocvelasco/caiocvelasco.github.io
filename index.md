@@ -2,46 +2,42 @@
 layout: default
 ---
 
-**Data Scientist** with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research. My current interests lie at the intersection of **AI Governance, Causal Inference, and Evidence-Based Public Policy**.
+**Data Scientist** with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research. My current interests lie at the intersection of **AI Development, AI Governance, Causal Inference, and Evidence-Based Public Policy**.
 
-My work combines **statistical reasoning, predictive modeling, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil’s largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project. 
+My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil’s largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project. 
 
-I have also designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets for finance, e-commerce, insurance, and IoT use cases.
+I have also designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets across multiple industries.
 
 - **Academic Training:**
-    - **Mechanical Engineer from UFRJ**, where I graduated *cum laude* and was awarded the General Electric Scholarship
-    - **Master in Economics & Public Policy from UCLA**, awarded the Lemann Foundation Scholarship and the Luskin Scholarship
-    - (unfinished) **doctoral training in Economics** at **Tilburg University** in the Netherlands, awarded the Koopman's Scholarship
+    - **Mechanical Engineer from UFRJ**, where I graduated *cum laude* and was awarded the General Electric Scholarship.
+    - **Master in Economics & Public Policy from UCLA**, awarded the Lemann Foundation Scholarship and the Luskin Scholarship.
+    - (unfinished) **doctoral training in Economics** at **Tilburg University** in the Netherlands, awarded the Koopman's Scholarship.
 - **Current Focus:** 
-    - exploring **AI governance, societal impact assessment, and evidence-based policy**, while deepening my work in **Causal Inference, Experimentation, and Causal Machine Learning**
+    - Exploring **AI systems development, human-AI decision-making, governance, and societal impact**, integrating **causal inference, machine learning, and empirical evaluation**.
 - **Beyond Work:** 
-    - built a community of **6,500+ followers on** [**LinkedIn**](https://www.linkedin.com/in/caiovelasco/)
-    - lived and worked across the **USA, Europe, and Brazil**
-    - continue to play **competitive amateur football** wherever I go
+    - built a community of **6,500+ followers on** [**LinkedIn**](https://www.linkedin.com/in/caiovelasco/).
+    - lived and worked across the **USA, Europe, and Brazil**.
+    - continue to play **competitive amateur football** wherever I go.
 
-## **AI Governance & Societal Impact**
+## **AI Development, Governance & Public Policy**
 
-I am exploring how **empirical evidence, causal reasoning, and public policy** can inform the assessment and governance of AI systems, particularly their societal impacts and implications for the public interest.
+I am exploring how **AI systems, empirical evidence, and causal reasoning** can support better institutional decisions, responsible AI governance, and public policy.
 
-- [**AI Governance Evidence Lab**](https://caiocvelasco.github.io/ai-governance-evidence-lab/)  
-  An independent research concept exploring evidence-based approaches to evaluating AI systems and their societal impacts.
+Through [**AI Governance Lab**](https://aigovernancelab.org/), I aim to connect the design, development, and rigorous evaluation of AI systems, with particular interest in human-AI decision-making, societal impact, and real-world applications.
 
-## **Experimentation & Causal Inference**
+## Quantitative Methods & Applied Research
 
-My current focus is on **experimentation, causal inference, statistical reasoning, and causal machine learning**, combining applied industry problems with rigorous mathematical foundations.
+My background includes **statistics, econometrics, applied data science, and quantitative research**, with previous projects exploring **causal inference** and **program evaluation**. 
 
-### **Courses & Educational Projects**
+I remain interested in strengthening these foundations and applying them to **AI evaluation, governance, and public policy**.
 
-- [**Mathematics & Statistics Foundations for Causal Machine Learning**](https://caiocvelasco.github.io/math-journey-data-science-causal-machine-learning/)  
-  A more **theoretical and globally oriented project**, focused on the advanced mathematical and statistical foundations behind **Causal Machine Learning**, connecting probability, statistical inference, econometrics, and modern causal methods.
-
-### **Selected Projects**
+### Causal Inference Projects
 
 - [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)  
-  Estimated the causal impact of a customer-satisfaction initiative using **Difference-in-Differences** to separate program effects from underlying time trends.
+  An applied project using **Difference-in-Differences** to examine the potential impact of a customer-satisfaction initiative.
 
 - [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)  
-  Estimated the impact of a recommendation system using **Propensity Score Matching + Difference-in-Differences**, supporting product evaluation with observational data.
+  An applied project exploring **Propensity Score Matching and Difference-in-Differences** to assess a recommendation system using observational data.
 
 ## **Data & Analytics Engineering**
 
