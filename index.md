@@ -33,11 +33,9 @@ I remain interested in strengthening these foundations and applying them to **AI
 
 ### Causal Inference Projects
 
-- [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git)  
-  An applied project using **Difference-in-Differences** to examine the potential impact of a customer-satisfaction initiative.
+- [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git): Examining the impact of a customer-satisfaction initiative with **Difference-in-Differences**.
 
-- [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git)  
-  An applied project exploring **Propensity Score Matching and Difference-in-Differences** to assess a recommendation system using observational data.
+- [**Causal Inference: Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git): Assessing a recommendation system with **Propensity Score Matching and Difference-in-Differences**.
 
 ## **Data & Analytics Engineering**
 
