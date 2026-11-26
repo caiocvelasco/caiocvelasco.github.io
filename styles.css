@@ -1,0 +1,45 @@
+/* Quarto redesign — isolated from the existing Jekyll stylesheet. */
+:root {
+  --ink: #172436;
+  --muted: #5f6b78;
+  --line: #e2e9ef;
+  --accent: #17639b;
+  --wash: #f6f9fc;
+}
+body { color: var(--ink); font-size: 1.04rem; line-height: 1.72; }
+#quarto-header .navbar { border-bottom: 1px solid var(--line); }
+.navbar-brand { font-weight: 750; letter-spacing: -.03em; }
+main.content { padding-top: 0 !important; }
+#title-block-header { display: none; }
+.hero {
+  display: grid; grid-template-columns: minmax(0, 1fr) 230px;
+  gap: clamp(1.5rem, 5vw, 5rem); align-items: center;
+  background: linear-gradient(140deg, #f1f6fb 0%, #fff 80%);
+  padding: clamp(2.5rem, 7vw, 6rem) max(2rem, calc((100vw - 1060px) / 2));
+  border-bottom: 1px solid var(--line);
+}
+.hero-copy { max-width: 720px; }
+.eyebrow, .card-kicker {
+  color: var(--accent); font-size: .73rem; font-weight: 750;
+  letter-spacing: .12em; margin-bottom: 1.25rem;
+}
+.hero h1 { font-size: clamp(2.7rem, 5vw, 4.5rem); font-weight: 780; letter-spacing: -.055em; margin: 0 0 1.3rem; }
+.hero p { max-width: 690px; color: #354659; }
+.hero .btn { margin: .35rem .4rem .35rem 0; border-radius: .4rem; font-size: .92rem; }
+.hero-portrait img { width: 225px; height: 260px; object-fit: cover; border-radius: 1rem; box-shadow: 0 16px 34px rgba(24, 50, 76, .1); }
+.page-container { max-width: 1060px; margin: 0 auto; padding: 2rem 1.5rem 5rem; }
+.page-container h2 { font-size: 1.75rem; letter-spacing: -.035em; font-weight: 740; margin: 3.3rem 0 1rem; border: 0; }
+.page-container h3 { font-size: 1.17rem; letter-spacing: -.015em; font-weight: 720; margin-top: 1.2rem; }
+.page-container p, .page-container li { color: #3f4c5b; }
+.page-container a { color: var(--accent); }
+.initiative-card { border: 1px solid var(--line); border-radius: .85rem; padding: 1.7rem; background: #fff; min-height: 260px; height: 100%; box-shadow: 0 8px 25px rgba(25,53,83,.035); }
+.initiative-card h3 { margin-top: 0; font-size: 1.3rem; }
+.initiative-card a { font-weight: 650; }
+.academic-panel { background: var(--wash); border: 1px solid var(--line); padding: 1.4rem; border-radius: .7rem; }
+.academic-panel h3 { margin-top: 0; }
+@media(max-width: 760px) {
+  .hero { grid-template-columns: 1fr; padding: 2.5rem 1.5rem; gap: 1rem; }
+  .hero-portrait { grid-row: 1; }
+  .hero-portrait img { width: 125px; height: 140px; }
+  .page-container { padding: 1.5rem 1.25rem 4rem; }
+}
