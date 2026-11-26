@@ -35,11 +35,11 @@ Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Ba
 
 ## About
 
-My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil's largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project.
+My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have developed machine-learning models for **customer churn and reactivation** for one of Brazil's largest football clubs, conducted applied econometric research at **UCLA**, and contributed to a **World Bank** research project.
 
-I have also designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets across multiple industries.
+I have also designed and migrated **production-grade data pipelines and analytics platforms** using **Python, SQL, dbt, Snowflake, Databricks, and AWS**, working across industries and developing experience in building reliable, scalable data systems.
 
-Building on this experience, I am expanding my interests toward **AI systems development**, particularly **LLM-based applications, Retrieval-Augmented Generation (RAG), and AI agents**, with an emphasis on **reliable systems, empirical evaluation, and real-world applications**.
+Building on this interdisciplinary background, I am increasingly interested in **AI systems development, evaluation, and governance**, including **LLM-based applications, RAG, and AI agents**. Through [**AI Governance Lab**](https://aigovernancelab.org/), I am exploring how **AI systems, empirical evidence, and causal reasoning** can support better institutional decision-making, responsible AI adoption, and public policy.
 
 ## Research & Initiatives {#research-initiatives}
 
