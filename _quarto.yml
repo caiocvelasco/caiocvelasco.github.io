@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Caio Velasco"
+  site-url: https://caiocvelasco.github.io
+  description: "AI Development, Governance, Causal Inference, and Quantitative Research"
+  navbar:
+    background: light
+    left:
+      - text: About
+        href: index.qmd#about
+      - text: Research & Initiatives
+        href: index.qmd#research-initiatives
+      - text: Projects
+        href: index.qmd#selected-projects
+    right:
+      - icon: github
+        href: https://github.com/caiocvelasco
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/caiovelasco/
+        aria-label: LinkedIn
+  page-footer:
+    center: "© Caio Velasco"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
