@@ -4,25 +4,43 @@ title-block-banner: false
 page-layout: full
 ---
 
-::: {.hero #about}
-::: {.hero-copy}
-<div class="eyebrow">DATA SCIENCE · AI GOVERNANCE · PUBLIC POLICY</div>
+::: {.portfolio-layout}
 
-# Caio Velasco {.hero-title}
+::: {.profile-sidebar #about}
 
-**Data Scientist** with **6+ years of experience** spanning Data Science, Analytics Engineering, Data Engineering, and Quantitative Research. My current interests lie at the intersection of **AI Development, AI Governance, Causal Inference, and Evidence-Based Public Policy**.
+![](assets/img/caio_ucla.JPG){.profile-photo fig-alt="Caio Velasco"}
 
-My work combines **statistical reasoning, machine learning, causal inference, and production data systems**, drawing on applied econometric research at **UCLA**, a **World Bank** research project, and machine-learning applications for one of Brazil's largest football clubs.
+# Caio Velasco
 
-[**Curriculum Vitae**](assets/img/en_CV_CaioVelasco_2026.pdf){.btn .btn-primary} [GitHub](https://github.com/caiocvelasco){.btn .btn-outline-secondary} [LinkedIn](https://www.linkedin.com/in/caiovelasco/){.btn .btn-outline-secondary}
+<div class="profile-kicker">AI DEVELOPMENT · GOVERNANCE · PUBLIC POLICY</div>
+
+**Data Scientist** with **6+ years of experience** in Data Science, Analytics Engineering, Data Engineering, and Quantitative Research.
+
+Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Based Public Policy**.
+
+[Curriculum Vitae](assets/img/en_CV_CaioVelasco_2026.pdf){.btn .btn-primary}
+
+[GitHub](https://github.com/caiocvelasco){.profile-link} · [LinkedIn](https://www.linkedin.com/in/caiovelasco/){.profile-link}
+
+<div class="profile-divider"></div>
+
+<div class="profile-small-heading">ACADEMIC TRAINING</div>
+
+**UFRJ** · Mechanical Engineering
+
+**UCLA** · Economics & Public Policy
+
+**Tilburg University** · Doctoral training in Economics
+
 :::
 
-::: {.hero-portrait}
-![](assets/img/caio_ucla.JPG){fig-alt="Caio Velasco"}
-:::
-:::
+::: {.portfolio-content}
 
-::: {.page-container}
+## About
+
+My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil's largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project.
+
+I have also designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets across multiple industries.
 
 ## Research & Initiatives {#research-initiatives}
 
@@ -101,5 +119,7 @@ Selected projects from my professional experience building production data and a
 ## Beyond Work
 
 I have built a community of **6,500+ followers on [LinkedIn](https://www.linkedin.com/in/caiovelasco/)**, lived and worked across the **USA, Europe, and Brazil**, and continue to play **competitive amateur football** wherever I go.
+
+:::
 
 :::
