@@ -30,7 +30,6 @@ Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Ba
 
 **UCLA** · Economics & Public Policy
 
-**Tilburg University** · Doctoral training in Economics
 
 :::
 
@@ -41,6 +40,8 @@ Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Ba
 My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have built machine-learning models for **customer churn and reactivation for the membership program of one of Brazil's largest football clubs**, conducted applied econometric research at **UCLA** and contributed to a **World Bank** research project.
 
 I have also designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets across multiple industries.
+
+Building on this experience, I am expanding my interests toward **AI systems development**, particularly **LLM-based applications, Retrieval-Augmented Generation (RAG), and AI agents**, with an emphasis on **reliable systems, empirical evaluation, and real-world applications**.
 
 ## Research & Initiatives {#research-initiatives}
 
@@ -71,29 +72,25 @@ Developing a course covering **Probability, Statistical Inference, Regression, a
 :::
 :::
 
-## Background
+## Academic Training
 
-::: {.grid}
-::: {.g-col-12 .g-col-md-7}
-
-### Professional experience
-
-I have designed and migrated **production-grade data pipelines and analytics platforms using dbt, Snowflake, Databricks, Redshift, SQL, and Python**, including large-scale legacy migrations, incremental data models, data quality frameworks, and analytics-ready datasets across multiple industries.
-
-I have also developed machine-learning models for **customer churn and reactivation** and worked on empirical research and program evaluation.
-
-:::
-::: {.g-col-12 .g-col-md-5}
 ::: {.academic-panel}
-### Academic training
 
-**UFRJ** — Mechanical Engineering, *cum laude*. General Electric Scholarship.
-
-**UCLA** — Master in Economics & Public Policy. Lemann Foundation and Luskin Scholarships.
-
-**Tilburg University** — Doctoral training in Economics (unfinished). Koopmans Scholarship.
+::: {.academic-entry}
+**UFRJ — Federal University of Rio de Janeiro**  
+Mechanical Engineering, graduated *cum laude*. Recipient of the **General Electric Scholarship**.
 :::
+
+::: {.academic-entry}
+**UCLA — University of California, Los Angeles**  
+Master in Economics & Public Policy. Recipient of the **Lemann Foundation Scholarship** and **UCLA Luskin Scholarship**.
 :::
+
+::: {.academic-entry}
+**Tilburg University — Netherlands**  
+Doctoral training in Economics (unfinished). Recipient of the **Koopmans Scholarship**.
+:::
+
 :::
 
 ## Quantitative Methods & Applied Research {#selected-projects}
