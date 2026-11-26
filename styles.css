@@ -1,0 +1,69 @@
+/* Quarto personal portfolio — fixed profile column, scrollable main content */
+:root {
+  --ink: #172436;
+  --muted: #566576;
+  --line: #e3e9ef;
+  --accent: #17639b;
+  --wash: #f6f9fc;
+}
+body { color: var(--ink); font-size: 1.01rem; font-weight: 400; line-height: 1.75; }
+#quarto-header .navbar { border-bottom: 1px solid var(--line); }
+.navbar-brand { font-weight: 750; letter-spacing: -.025em; }
+#title-block-header { display: none; }
+main.content { margin: 0 !important; padding: 0 !important; max-width: none !important; }
+#quarto-content, #quarto-document-content { max-width: none !important; }
+.portfolio-layout {
+  max-width: 1640px;
+  margin: 0 auto;
+  padding: clamp(1.5rem, 3vw, 3rem) clamp(1.2rem, 3vw, 3rem) 4rem;
+  display: grid;
+  grid-template-columns: minmax(225px, 270px) minmax(0, 1fr);
+  column-gap: clamp(2rem, 3.5vw, 4rem);
+  align-items: start;
+}
+.profile-sidebar {
+  position: sticky;
+  top: 5.5rem;
+  max-height: calc(100vh - 6.5rem);
+  overflow-y: auto;
+  padding: .5rem 1.2rem 1rem 0;
+  scrollbar-width: thin;
+  color: var(--muted);
+}
+.profile-photo { width: 155px; height: 165px; border-radius: .75rem; object-fit: cover; display:block; margin: 0 0 1.25rem; }
+.profile-sidebar h1 { font-size: 2.05rem; font-weight: 780; letter-spacing: -.045em; margin: 0 0 .3rem; line-height: 1.13; }
+.profile-kicker, .profile-small-heading, .card-kicker {
+  color: var(--accent); font-size: .70rem; font-weight: 750; letter-spacing: .09em;
+}
+.profile-kicker { margin: .7rem 0 1.25rem; line-height: 1.5; }
+.profile-sidebar p { font-size: .92rem; line-height: 1.55; margin-bottom: .9rem; }
+.profile-sidebar .btn { border-radius: .4rem; display: inline-block; margin: .2rem 0 .8rem; font-size: .9rem; }
+.profile-link { font-weight: 650; font-size: .9rem; }
+.profile-divider { height: 1px; background: var(--line); margin: 1.25rem 0; }
+.profile-small-heading { margin-bottom: .8rem; }
+.portfolio-content { min-width: 0; max-width: 1120px; }
+.portfolio-content > h2:first-child { margin-top: .2rem; }
+.portfolio-content h2 { font-size: 1.65rem; letter-spacing: -.035em; font-weight: 740; margin: 2.7rem 0 1rem; border: 0; }
+.portfolio-content h3 { font-size: 1.16rem; font-weight: 720; margin-top: 1.25rem; letter-spacing: -.014em; }
+.portfolio-content p, .portfolio-content li { color: #3f4c5b; font-weight: 400; }
+.portfolio-content strong { font-weight: 600; }
+.portfolio-content a, .profile-sidebar a:not(.btn) { color: var(--accent); }
+.initiative-card { border: 1px solid var(--line); border-radius: .8rem; padding: 1.5rem; background: #fff; min-height: 250px; height: 100%; box-shadow: 0 8px 25px rgba(25,53,83,.035); }
+.initiative-card h3 { margin-top: .55rem; font-size: 1.26rem; }
+.initiative-card a { font-weight: 650; }
+.academic-panel { background: var(--wash); border: 1px solid var(--line); padding: 1.35rem; border-radius: .7rem; }
+.academic-panel h3 { margin-top: 0; }
+.academic-entry { padding: .85rem 0; }
+.academic-entry + .academic-entry { border-top: 1px solid var(--line); }
+.academic-entry p { margin: 0; }
+.academic-entry strong { color: var(--ink); }
+@media (max-width: 900px) {
+  .portfolio-layout { grid-template-columns: 245px minmax(0, 1fr); column-gap: 2rem; }
+  .profile-photo { width: 130px; height: 145px; }
+}
+@media (max-width: 700px) {
+  .portfolio-layout { display: block; padding: 1.5rem 1.2rem 3.5rem; }
+  .profile-sidebar { position: static; max-height: none; overflow: visible; padding: 0 0 1.3rem; border-bottom: 1px solid var(--line); margin-bottom: 1.8rem; }
+  .profile-sidebar h1 { font-size: 2rem; }
+  .portfolio-content { max-width: 100%; }
+}

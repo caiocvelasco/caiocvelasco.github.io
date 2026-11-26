@@ -1,0 +1,117 @@
+---
+title: "Caio Velasco"
+title-block-banner: false
+page-layout: full
+---
+
+::: {.portfolio-layout}
+
+::: {.profile-sidebar #about}
+
+![](assets/img/caio_ucla.JPG){.profile-photo fig-alt="Caio Velasco"}
+
+# Caio Velasco
+
+<div class="profile-kicker">AI DEVELOPMENT · GOVERNANCE · PUBLIC POLICY</div>
+
+**Data Scientist** with **6+ years of experience** in Data Science, Analytics Engineering, Data Engineering, and Quantitative Research.
+
+Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Based Public Policy**.
+
+[GitHub](https://github.com/caiocvelasco){.profile-link} · [LinkedIn](https://www.linkedin.com/in/caiovelasco/){.profile-link}
+
+<div class="profile-divider"></div>
+
+<div class="profile-small-heading">ACADEMIC TRAINING</div>
+
+**UFRJ** · Mechanical Engineering
+
+**UCLA** · Economics & Public Policy
+
+
+:::
+
+::: {.portfolio-content}
+
+## About
+
+My work combines **statistical reasoning, machine learning, causal inference, and production data systems**. I have developed machine-learning models for **customer churn and reactivation** for one of Brazil's largest football clubs, conducted applied econometric research at **UCLA**, and contributed to a **World Bank** research project.
+
+I have also designed and migrated **production-grade data pipelines and analytics platforms** using **Python, SQL, dbt, Snowflake, Databricks, and AWS**, working across industries and developing experience in building reliable, scalable data systems.
+
+Building on this interdisciplinary background, I am increasingly interested in **AI systems development, evaluation, and governance**, including **LLM-based applications, RAG, and AI agents**. Through [**AI Governance Lab**](https://aigovernancelab.org/), I am exploring how **AI systems, empirical evidence, and causal reasoning** can support better institutional decision-making, responsible AI adoption, and public policy.
+
+## Research & Initiatives {#research-initiatives}
+
+I am developing two complementary initiatives connecting **AI systems, empirical evidence, rigorous quantitative methods, and policy**.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.initiative-card}
+<div class="card-kicker">RESEARCH INITIATIVE</div>
+
+### AI Governance Lab
+
+Exploring **AI systems development, human-AI decision-making, governance, and societal impact**, integrating **causal inference, machine learning, and empirical evaluation**.
+
+[Explore AI Governance Lab →](https://aigovernancelab.org/)
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.initiative-card}
+<div class="card-kicker">COURSE & LECTURE NOTES</div>
+
+### Foundations for Causal Inference
+
+Developing a course covering **Probability, Statistical Inference, Regression, and Causal Inference**, connecting theoretical foundations with real-world applications.
+
+[Explore Foundations →](https://caiocvelasco.github.io/foundations-for-causal-inference/)
+:::
+:::
+:::
+
+## Academic Training
+
+::: {.academic-panel}
+
+::: {.academic-entry}
+**UFRJ — Federal University of Rio de Janeiro**  
+Mechanical Engineering, graduated *cum laude*.  
+Recipient of the **General Electric Scholarship**.
+:::
+
+::: {.academic-entry}
+**UCLA — University of California, Los Angeles**  
+Master in Economics & Public Policy.  
+Recipient of the **Lemann Foundation Scholarship** and **UCLA Luskin Scholarship**.
+:::
+
+:::
+
+## Quantitative Methods & Applied Research {#selected-projects}
+
+My background includes **statistics, econometrics, applied data science, and quantitative research**, with previous projects exploring **causal inference** and **program evaluation**. I remain interested in applying these foundations to **AI evaluation, governance, and public policy**.
+
+### Causal Inference Projects
+
+- [**Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git): Examining the impact of a customer-satisfaction initiative with **Difference-in-Differences**.
+- [**Recommendation System Impact**](https://github.com/caiocvelasco/project08-venv-causal-inference-propensity-score-difference-in-differences-program-evaluation.git): Assessing a recommendation system with **Propensity Score Matching and Difference-in-Differences**.
+
+## Data & Analytics Engineering
+
+Selected projects from my professional experience building production data and analytics systems.
+
+- [**Building a Data Lake (Ingestion):** dbt + DuckDB — Postgres → AWS S3](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
+- [**Building an Analytical Warehouse (Transformation):** dbt + Snowflake — S3 → Analytical Models](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
+- [**Data Quality & Observability:** Raw Data Validation + CI/CD](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/)
+- [**Historical Data Modeling:** CDC + SCD Type 2 in Snowflake](https://github.com/caiocvelasco/project06-venv-cdc-scd-type-2-stored-procedure-snowflake)
+
+[See all projects on GitHub →](https://github.com/caiocvelasco)
+
+## Beyond Work
+
+I have built a community of **6,500+ followers on [LinkedIn](https://www.linkedin.com/in/caiovelasco/)**, lived and worked across the **USA, Europe, and Brazil**, and continue to play **competitive amateur football** wherever I go.
+
+:::
+
+:::
