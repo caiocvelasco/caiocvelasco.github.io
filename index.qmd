@@ -18,8 +18,6 @@ page-layout: full
 
 Interested in **AI Development, AI Governance, Causal Inference, and Evidence-Based Public Policy**.
 
-[Curriculum Vitae](assets/img/en_CV_CaioVelasco_2026.pdf){.btn .btn-primary}
-
 [GitHub](https://github.com/caiocvelasco){.profile-link} · [LinkedIn](https://www.linkedin.com/in/caiovelasco/){.profile-link}
 
 <div class="profile-divider"></div>
@@ -78,17 +76,14 @@ Developing a course covering **Probability, Statistical Inference, Regression, a
 
 ::: {.academic-entry}
 **UFRJ — Federal University of Rio de Janeiro**  
-Mechanical Engineering, graduated *cum laude*. Recipient of the **General Electric Scholarship**.
+Mechanical Engineering, graduated *cum laude*.  
+Recipient of the **General Electric Scholarship**.
 :::
 
 ::: {.academic-entry}
 **UCLA — University of California, Los Angeles**  
-Master in Economics & Public Policy. Recipient of the **Lemann Foundation Scholarship** and **UCLA Luskin Scholarship**.
-:::
-
-::: {.academic-entry}
-**Tilburg University — Netherlands**  
-Doctoral training in Economics (unfinished). Recipient of the **Koopmans Scholarship**.
+Master in Economics & Public Policy.  
+Recipient of the **Lemann Foundation Scholarship** and **UCLA Luskin Scholarship**.
 :::
 
 :::
