@@ -8,6 +8,7 @@ website:
   title: "Caio Velasco"
   site-url: https://caiocvelasco.github.io
   description: "AI Development, Governance, Causal Inference, and Quantitative Research"
+  google-analytics: "G-TWEB84PHGE"
   navbar:
     background: light
     left:
