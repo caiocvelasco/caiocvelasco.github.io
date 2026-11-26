@@ -12,8 +12,9 @@ I have also designed and migrated **production-grade data pipelines and analytic
     - **Mechanical Engineer from UFRJ**, where I graduated *cum laude* and was awarded the General Electric Scholarship.
     - **Master in Economics & Public Policy from UCLA**, awarded the Lemann Foundation Scholarship and the Luskin Scholarship.
     - (unfinished) **doctoral training in Economics** at **Tilburg University** in the Netherlands, awarded the Koopman's Scholarship.
-- **Current Focus:** 
-    - Exploring **AI systems development, human-AI decision-making, governance, and societal impact**, integrating **causal inference, machine learning, and empirical evaluation**.
+- **Current Focus:**
+    - Developing [**AI Governance Lab**](https://aigovernancelab.org/), exploring **AI systems development, human-AI decision-making, governance, and societal impact**, integrating **causal inference, machine learning, and empirical evaluation**.
+    - Developing [**Foundations for Causal Inference**](https://caiocvelasco.github.io/foundations-for-causal-inference/), a course covering **Probability, Statistical Inference, and Causal Inference**, connecting theoretical foundations with real-world applications.
 - **Beyond Work:** 
     - built a community of **6,500+ followers on** [**LinkedIn**](https://www.linkedin.com/in/caiovelasco/).
     - lived and worked across the **USA, Europe, and Brazil**.
@@ -31,6 +32,10 @@ My background includes **statistics, econometrics, applied data science, and qua
 
 I remain interested in strengthening these foundations and applying them to **AI evaluation, governance, and public policy**.
 
+### Foundations for Causal Inference
+
+- [**Foundations for Causal Inference - Course & Lecture Notes**](https://caiocvelasco.github.io/foundations-for-causal-inference/): Developing a structured learning program covering **Probability, Statistical Inference, Regression, and Causal Inference**, with an emphasis on statistical reasoning, mathematical foundations, and applied research.
+
 ### Causal Inference Projects
 
 - [**Causal Inference: Customer-Satisfaction Program**](https://github.com/caiocvelasco/project07-venv-causal-inference-difference-in-differences-program-evaluation.git): Examining the impact of a customer-satisfaction initiative with **Difference-in-Differences**.
@@ -41,8 +46,8 @@ I remain interested in strengthening these foundations and applying them to **AI
 
 A selection of projects from my professional experience building production data and analytics systems.
 
-- [**Building a Data Lake (Ingestion):** dbt + DuckDB — Postgres → AWS S3](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
-- [**Building an Analytical Warehouse (Transformation):** dbt + Snowflake — S3 → Analytical Models](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
+- [**Building a Data Lake (Ingestion):** dbt + DuckDB - Postgres → AWS S3](https://github.com/caiocvelasco/project03-docker-dbt-DuckDB-from-postgres-to-s3-parquet.git)
+- [**Building an Analytical Warehouse (Transformation):** dbt + Snowflake - S3 → Analytical Models](https://github.com/caiocvelasco/project03-docker-dbt-from-s3-parquet-to-Snowflake-external-tables)
 - [**Data Quality & Observability:** Raw Data Validation + CI/CD](https://github.com/caiocvelasco/project09-meltano-s3-dbt-snowflake-observability-ci-cd/tree/main/)
 - [**Historical Data Modeling:** CDC + SCD Type 2 in Snowflake](https://github.com/caiocvelasco/project06-venv-cdc-scd-type-2-stored-procedure-snowflake)
 
