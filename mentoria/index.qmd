@@ -1,0 +1,143 @@
+---
+title: "Mentoria com Caio Velasco"
+lang: pt-BR
+page-layout: full
+description: "Mentoria individual em carreira, educação e oportunidades internacionais."
+---
+
+::: {.mentoria-layout}
+::: {.mentoria-hero}
+<div class="card-kicker">MENTORIA INDIVIDUAL · EM PORTUGUÊS</div>
+
+# Existem mais caminhos do que aqueles que você conhece.
+
+Carreira, educação, experiências internacionais e novas possibilidades.
+
+Um acompanhamento individual para quem deseja ampliar perspectivas, tomar decisões mais informadas e construir sua própria trajetória.
+
+[Vamos conversar](https://www.linkedin.com/in/caiovelasco/){.btn .btn-primary}
+:::
+
+## Uma trajetória não linear
+
+::: {.mentoria-bio}
+![](../assets/img/caio_ucla.JPG){.mentoria-photo fig-alt="Caio Velasco"}
+
+Ao longo da minha trajetória, tive a oportunidade de estudar, trabalhar e viver em diferentes países, transitar entre áreas do conhecimento, empreender e desenvolver projetos independentes.
+
+Formei-me em Engenharia Mecânica na UFRJ, como primeiro da turma, *cum laude*. Fiz mestrado na UCLA com bolsa da Fundação Lemann, fui o primeiro funcionário da Stone e fundei a Me Prepara. Minha experiência inclui pesquisa acadêmica, candidaturas a doutorados internacionais, trabalho com clientes brasileiros, americanos e europeus e quase dez anos vivendo nos Estados Unidos, na Holanda, em Portugal e na Espanha.
+
+Minha trajetória nunca foi linear. Foi construída por meio de escolhas, mudanças de direção, dúvidas, erros e recomeços. Acredito que muitas pessoas podem construir trajetórias interessantes, mas nem sempre têm acesso às informações, referências e conexões necessárias para identificar os caminhos disponíveis.
+:::
+
+::: {.grid .mentoria-stats}
+::: {.g-col-6 .g-col-md-3}
+**4 países**
+
+de experiência no exterior
+:::
+::: {.g-col-6 .g-col-md-3}
+**~10 anos**
+
+de vida internacional
+:::
+::: {.g-col-6 .g-col-md-3}
+**UFRJ · UCLA**
+
+formação acadêmica
+:::
+::: {.g-col-6 .g-col-md-3}
+**6.500+**
+
+seguidores no LinkedIn
+:::
+:::
+
+## O que podemos trabalhar juntos
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">01</div>
+
+### Direção e decisões de vida
+
+Entender seu momento atual, identificar prioridades, questionar escolhas e explorar possíveis trajetórias profissionais e pessoais.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">02</div>
+
+### Carreira e posicionamento profissional
+
+Transições, entendimento do mercado, identificação de oportunidades e construção de um posicionamento coerente com seus objetivos.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">03</div>
+
+### Internacionalização e mobilidade
+
+Morar fora, trabalhar para o exterior, conhecer diferentes mercados e avaliar as possibilidades e os desafios de uma vida internacional.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">04</div>
+
+### Educação e oportunidades acadêmicas
+
+Bolsas, mestrados, doutorados, universidades internacionais, candidaturas, GRE, GMAT e cartas de recomendação.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">05</div>
+
+### Networking e construção de oportunidades
+
+Identificar pessoas relevantes, estabelecer conexões, abordar profissionais e utilizar o LinkedIn de maneira estratégica.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">06</div>
+
+### Autonomia profissional e novos projetos
+
+Empreendedorismo, trabalho independente, prestação de serviços internacionais, marca pessoal e projetos próprios.
+:::
+:::
+:::
+
+## Como funciona
+
+A proposta inicial é um acompanhamento individual, personalizado, com quatro encontros ao longo de oito semanas. O formato pode ser ajustado de acordo com suas necessidades.
+
+1. **Diagnóstico:** entender sua história, inquietações, objetivos e restrições.
+2. **Possibilidades:** pesquisar e avaliar caminhos que façam sentido para você.
+3. **Estratégia e execução:** definir ações concretas, explorar oportunidades e estabelecer conexões.
+4. **Reavaliação:** analisar os resultados, ajustar a direção e estabelecer próximos passos.
+
+Entre os encontros, podemos combinar atividades práticas, pesquisas e recursos para apoiar sua evolução.
+
+## Para quem é
+
+Para pessoas que estão repensando sua trajetória, considerando uma mudança profissional, explorando oportunidades internacionais ou acadêmicas, ou querendo construir algo próprio. Não é necessário trabalhar com tecnologia ou dados.
+
+Não ofereço fórmulas prontas nem garantias de emprego, bolsas ou admissões. A mentoria também não substitui orientação jurídica, migratória ou psicológica especializada.
+
+::: {.mentoria-contact}
+## Cada trajetória é única.
+
+O objetivo não é reproduzir minhas escolhas, mas ajudá-lo a descobrir e construir as suas.
+
+Se essa proposta fizer sentido para você, entre em contato comigo pelo LinkedIn para conversarmos sobre seu momento e o que podemos trabalhar juntos.
+
+[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/caiovelasco/){.btn .btn-primary}
+:::
+
+[← Back to my personal website](../index.qmd)
+:::
