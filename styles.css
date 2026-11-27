@@ -87,3 +87,24 @@ main.content { margin: 0 !important; padding: 0 !important; max-width: none !imp
 .mentoria-card p { margin-bottom: 0; color: var(--muted); }
 .mentoria-contact { background: var(--wash); border: 1px solid var(--line); border-radius: .75rem; padding: 1.5rem; margin: 2rem 0; }
 .mentoria-contact h2 { margin-top: 0; }
+
+/* Flag inside the mentorship menu label, independent of emoji support */
+.navbar a.nav-link[href$="mentoria/"], .navbar a.nav-link[href$="mentoria/index.html"] { white-space: nowrap; }
+/* Replace the visible label with an equivalent label containing an inline flag. */
+.navbar a.nav-link[href$="mentoria/"] .menu-text,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text { font-size: 0; }
+.navbar a.nav-link[href$="mentoria/"] .menu-text::before,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text::before { content: "Mentorship (Brazil "; font-size: 1rem; }
+.navbar a.nav-link[href$="mentoria/"] .menu-text::after,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text::after { content: ")"; font-size: 1rem; padding-left: 1.45rem; background: url("assets/img/flag-br.svg") no-repeat left center / 1.15rem auto; }
+.mentoria-layout h2 strong { font-weight: 850; }
+.mentoria-timeline { position: relative; margin: 1.4rem 0 2.5rem .5rem; padding-left: 2.5rem; border-left: 2px solid #d5e1eb; }
+.timeline-entry { position: relative; display: flex; gap: 1rem; align-items: flex-start; padding: .85rem 1.1rem; margin: 0 0 .75rem; border: 1px solid var(--line); border-radius: .65rem; background: white; }
+.timeline-entry::before { content: ""; position: absolute; top: 1.35rem; left: -3rem; width: .85rem; height: .85rem; background: var(--accent); border: 3px solid white; border-radius: 50%; box-shadow: 0 0 0 1px var(--accent); }
+.timeline-flag { width: 35px; height: 24px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); flex: 0 0 35px; margin-top: .25rem; }
+.timeline-entry h3 { font-size: 1.08rem; margin: 0 0 .25rem; font-weight: 700; }
+.timeline-entry p { margin: 0; color: var(--muted); font-size: .95rem; }
+.mentoria-human { border-left: 4px solid var(--accent); background: var(--wash); padding: 1.4rem 1.6rem; margin: 2rem 0; border-radius: 0 .65rem .65rem 0; }
+.mentoria-human h2 { margin-top: 0; }
+.mentoria-human p:last-child { margin-bottom: 0; }
+@media (max-width: 600px) { .mentoria-timeline { padding-left: 1.35rem; } .timeline-entry { padding: .8rem; gap: .7rem; } .timeline-entry::before { left: -1.85rem; } }
