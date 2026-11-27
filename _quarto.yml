@@ -19,7 +19,7 @@ website:
         href: index.qmd#research-initiatives
       - text: Projects
         href: index.qmd#selected-projects
-      - text: Mentorship (PT-BR)
+      - text: "Mentorship (PT-BR) 🇧🇷"
         href: mentoria/index.qmd
     right:
       - icon: github
