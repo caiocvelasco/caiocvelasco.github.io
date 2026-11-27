@@ -77,6 +77,13 @@ main.content { margin: 0 !important; padding: 0 !important; max-width: none !imp
 .mentoria-hero .btn { background: #f5f8fa; color: #172b3b; border-color: #f5f8fa; font-weight: 650; }
 .mentoria-layout h2 { font-size: 1.75rem; letter-spacing: -.025em; margin: 2.5rem 0 1rem; border: 0; }
 .mentoria-bio { display: flow-root; }
+.mentoria-bio > p:first-child,
+.mentoria-bio > p:first-child + p {
+  margin-top: 0;
+}
+.mentoria-bio > p:first-child {
+  margin-bottom: 0;
+}
 .mentoria-bio .mentoria-photo { width: 155px; height: 165px; object-fit: cover; border-radius: .75rem; float: left; margin: .35rem 1.5rem 1rem 0; }
 .mentoria-stats { margin: 1.5rem 0; }
 .mentoria-stats > div { background: var(--wash); border: 1px solid var(--line); border-radius: .65rem; padding: 1rem; color: var(--muted); font-size: .88rem; }
