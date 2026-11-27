@@ -1,0 +1,117 @@
+/* Quarto personal portfolio — fixed profile column, scrollable main content */
+:root {
+  --ink: #172436;
+  --muted: #566576;
+  --line: #e3e9ef;
+  --accent: #17639b;
+  --wash: #f6f9fc;
+}
+body { color: var(--ink); font-size: 1.01rem; font-weight: 400; line-height: 1.75; }
+#quarto-header .navbar { border-bottom: 1px solid var(--line); }
+.navbar-brand { font-weight: 750; letter-spacing: -.025em; }
+#title-block-header { display: none; }
+main.content { margin: 0 !important; padding: 0 !important; max-width: none !important; }
+#quarto-content, #quarto-document-content { max-width: none !important; }
+.portfolio-layout {
+  max-width: 1640px;
+  margin: 0 auto;
+  padding: clamp(1.5rem, 3vw, 3rem) clamp(1.2rem, 3vw, 3rem) 4rem;
+  display: grid;
+  grid-template-columns: minmax(225px, 270px) minmax(0, 1fr);
+  column-gap: clamp(2rem, 3.5vw, 4rem);
+  align-items: start;
+}
+.profile-sidebar {
+  position: sticky;
+  top: 5.5rem;
+  max-height: calc(100vh - 6.5rem);
+  overflow-y: auto;
+  padding: .5rem 1.2rem 1rem 0;
+  scrollbar-width: thin;
+  color: var(--muted);
+}
+.profile-photo { width: 155px; height: 165px; border-radius: .75rem; object-fit: cover; display:block; margin: 0 0 1.25rem; }
+.profile-sidebar h1 { font-size: 2.05rem; font-weight: 780; letter-spacing: -.045em; margin: 0 0 .3rem; line-height: 1.13; }
+.profile-kicker, .profile-small-heading, .card-kicker {
+  color: var(--accent); font-size: .70rem; font-weight: 750; letter-spacing: .09em;
+}
+.profile-kicker { margin: .7rem 0 1.25rem; line-height: 1.5; }
+.profile-sidebar p { font-size: .92rem; line-height: 1.55; margin-bottom: .9rem; }
+.profile-sidebar .btn { border-radius: .4rem; display: inline-block; margin: .2rem 0 .8rem; font-size: .9rem; }
+.profile-link { font-weight: 650; font-size: .9rem; }
+.profile-divider { height: 1px; background: var(--line); margin: 1.25rem 0; }
+.profile-small-heading { margin-bottom: .8rem; }
+.portfolio-content { min-width: 0; max-width: 1120px; }
+.portfolio-content > h2:first-child { margin-top: .2rem; }
+.portfolio-content h2 { font-size: 1.65rem; letter-spacing: -.035em; font-weight: 740; margin: 2.7rem 0 1rem; border: 0; }
+.portfolio-content h3 { font-size: 1.16rem; font-weight: 720; margin-top: 1.25rem; letter-spacing: -.014em; }
+.portfolio-content p, .portfolio-content li { color: #3f4c5b; font-weight: 400; }
+.portfolio-content strong { font-weight: 600; }
+.portfolio-content a, .profile-sidebar a:not(.btn) { color: var(--accent); }
+.initiative-card { border: 1px solid var(--line); border-radius: .8rem; padding: 1.5rem; background: #fff; min-height: 250px; height: 100%; box-shadow: 0 8px 25px rgba(25,53,83,.035); }
+.initiative-card h3 { margin-top: .55rem; font-size: 1.26rem; }
+.initiative-card a { font-weight: 650; }
+.academic-panel { background: var(--wash); border: 1px solid var(--line); padding: 1.35rem; border-radius: .7rem; }
+.academic-panel h3 { margin-top: 0; }
+.academic-entry { padding: .85rem 0; }
+.academic-entry + .academic-entry { border-top: 1px solid var(--line); }
+.academic-entry p { margin: 0; }
+.academic-entry strong { color: var(--ink); }
+@media (max-width: 900px) {
+  .portfolio-layout { grid-template-columns: 245px minmax(0, 1fr); column-gap: 2rem; }
+  .profile-photo { width: 130px; height: 145px; }
+}
+@media (max-width: 700px) {
+  .portfolio-layout { display: block; padding: 1.5rem 1.2rem 3.5rem; }
+  .profile-sidebar { position: static; max-height: none; overflow: visible; padding: 0 0 1.3rem; border-bottom: 1px solid var(--line); margin-bottom: 1.8rem; }
+  .profile-sidebar h1 { font-size: 2rem; }
+  .portfolio-content { max-width: 100%; }
+}
+
+/* Mentorship landing page */
+.mentoria-layout { max-width: 1100px; margin: auto; padding: clamp(1rem,4vw,3rem) clamp(1rem,3vw,2rem) 4rem; }
+.mentoria-hero { background: #172b3b; color: #eef4f8; padding: clamp(1.5rem,5vw,3.5rem); border-radius: .85rem; }
+.mentoria-hero .card-kicker { color: #bdd1e0; }
+.mentoria-hero h1 { color: white; font-size: clamp(2rem,4.5vw,3.3rem); line-height: 1.15; letter-spacing: -.045em; max-width: 950px; margin: 1rem 0; }
+.mentoria-hero p { max-width: 900px; }
+.mentoria-hero .btn { background: #f5f8fa; color: #172b3b; border-color: #f5f8fa; font-weight: 650; }
+.mentoria-layout h2 { font-size: 1.75rem; letter-spacing: -.025em; margin: 2.5rem 0 1rem; border: 0; }
+.mentoria-bio { display: flow-root; }
+.mentoria-bio > p:first-child,
+.mentoria-bio > p:first-child + p {
+  margin-top: 0;
+}
+.mentoria-bio > p:first-child {
+  margin-bottom: 0;
+}
+.mentoria-bio .mentoria-photo { width: 155px; height: 165px; object-fit: cover; border-radius: .75rem; float: left; margin: .35rem 1.5rem 1rem 0; }
+.mentoria-stats { margin: 1.5rem 0; }
+.mentoria-stats > div { background: var(--wash); border: 1px solid var(--line); border-radius: .65rem; padding: 1rem; color: var(--muted); font-size: .88rem; }
+.mentoria-stats strong { display: block; color: var(--ink); font-size: 1.2rem; }
+.mentoria-stats p { margin-bottom: .25rem; }
+.mentoria-card { border: 1px solid var(--line); border-radius: .75rem; padding: 1.4rem; height: 100%; }
+.mentoria-card h3 { font-size: 1.15rem; margin: .6rem 0; font-weight: 700; }
+.mentoria-card p { margin-bottom: 0; color: var(--muted); }
+.mentoria-contact { background: var(--wash); border: 1px solid var(--line); border-radius: .75rem; padding: 1.5rem; margin: 2rem 0; }
+.mentoria-contact h2 { margin-top: 0; }
+
+/* Flag inside the mentorship menu label, independent of emoji support */
+.navbar a.nav-link[href$="mentoria/"], .navbar a.nav-link[href$="mentoria/index.html"] { white-space: nowrap; }
+/* Replace the visible label with an equivalent label containing an inline flag. */
+.navbar a.nav-link[href$="mentoria/"] .menu-text,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text { font-size: 0; }
+.navbar a.nav-link[href$="mentoria/"] .menu-text::before,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text::before { content: "Mentorship (Brazil "; font-size: 1rem; }
+.navbar a.nav-link[href$="mentoria/"] .menu-text::after,
+.navbar a.nav-link[href$="mentoria/index.html"] .menu-text::after { content: ")"; font-size: 1rem; padding-left: 1.45rem; background: url("assets/img/flag-br.svg") no-repeat left center / 1.15rem auto; }
+.mentoria-layout h2 strong { font-weight: 850; }
+.mentoria-timeline { position: relative; margin: 1.4rem 0 2.5rem .5rem; padding-left: 2.5rem; border-left: 2px solid #d5e1eb; }
+.timeline-entry { position: relative; display: flex; gap: 1rem; align-items: flex-start; padding: .85rem 1.1rem; margin: 0 0 .75rem; border: 1px solid var(--line); border-radius: .65rem; background: white; }
+.timeline-entry::before { content: ""; position: absolute; top: 1.35rem; left: -3rem; width: .85rem; height: .85rem; background: var(--accent); border: 3px solid white; border-radius: 50%; box-shadow: 0 0 0 1px var(--accent); }
+.timeline-flag { width: 35px; height: 24px; object-fit: cover; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); flex: 0 0 35px; margin-top: .25rem; }
+.timeline-entry h3 { font-size: 1.08rem; margin: 0 0 .25rem; font-weight: 700; }
+.timeline-entry p { margin: 0; color: var(--muted); font-size: .95rem; }
+.mentoria-human { border-left: 4px solid var(--accent); background: var(--wash); padding: 1.4rem 1.6rem; margin: 2rem 0; border-radius: 0 .65rem .65rem 0; }
+.mentoria-human h2 { margin-top: 0; }
+.mentoria-human p:last-child { margin-bottom: 0; }
+@media (max-width: 600px) { .mentoria-timeline { padding-left: 1.35rem; } .timeline-entry { padding: .8rem; gap: .7rem; } .timeline-entry::before { left: -1.85rem; } }
