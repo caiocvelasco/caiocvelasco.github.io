@@ -3,6 +3,9 @@ project:
   output-dir: _site
   render:
     - index.qmd
+    - mentoria/index.qmd
+  resources:
+    - assets/img/flag-*.svg
 
 website:
   title: "Caio Velasco"
@@ -18,6 +21,8 @@ website:
         href: index.qmd#research-initiatives
       - text: Projects
         href: index.qmd#selected-projects
+      - text: "Mentorship (Brazil)"
+        href: mentoria/index.qmd
     right:
       - icon: github
         href: https://github.com/caiocvelasco

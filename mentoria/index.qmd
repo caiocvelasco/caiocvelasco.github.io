@@ -1,0 +1,248 @@
+---
+title: "Mentoria com Caio Velasco"
+lang: pt-BR
+page-layout: full
+description: "Mentoria individual em carreira, educação e oportunidades internacionais."
+---
+
+::: {.mentoria-layout}
+::: {.mentoria-hero}
+<div class="card-kicker">MENTORIA INDIVIDUAL · EM PORTUGUÊS</div>
+
+# Existem mais caminhos do que aqueles que você conhece.
+
+_Carreira, educação, experiências internacionais e **novas possibilidades**._
+
+Um acompanhamento **individual** para quem deseja ampliar perspectivas, **abrir a cabeça**, tomar decisões mais informadas e construir sua própria trajetória.
+
+[Vamos conversar pelo WhatsApp](https://wa.me/34611850396?text=Ol%C3%A1%2C%20Caio%21%20Gostaria%20de%20saber%20mais%20sobre%20a%20mentoria.){.btn .btn-primary}
+:::
+
+## Uma trajetória nada linear
+
+::: {.mentoria-bio}
+<img src="../assets/img/caio_ucla.JPG" alt="Caio Velasco" class="mentoria-photo" style="width: 200px; height: 213px; max-width: 40%; float: left; margin: 0 1.5rem 1rem 0; object-fit: cover; border-radius: .75rem;">
+
+Ao longo da minha trajetória, tive a oportunidade de estudar, trabalhar e viver em diferentes países, transitar entre áreas do conhecimento e desenvolver projetos independentes.
+
+Eu me formei em Engenharia Mecânica na UFRJ, como primeiro da turma, *cum laude*. Fiz mestrado na UCLA com bolsa da Fundação Lemann, fui o primeiro funcionário da Stone no Brasil e fundei o MePrepara. Minha experiência inclui pesquisa acadêmica, candidaturas a Mestrados e PhDs de prestígio internacionais, projetos com clientes brasileiros, americanos e europeus e quase 10 anos vivendo nos Estados Unidos, na Holanda, em Portugal e na Espanha.
+
+Minha trajetória **nunca** foi linear. Foi construída por meio de escolhas, mudanças de direção, dúvidas, erros e recomeços. Acredito que muitas pessoas podem construir trajetórias interessantes, mas nem sempre têm acesso às informações, referências e conexões necessárias para identificar os caminhos disponíveis.
+:::
+
+::: {.grid .mentoria-stats}
+::: {.g-col-6 .g-col-md-3}
+**4 países**
+
+de experiência no exterior
+:::
+::: {.g-col-6 .g-col-md-3}
+**~10 anos**
+
+de vida internacional
+:::
+::: {.g-col-6 .g-col-md-3}
+**UFRJ · UCLA**
+
+formação acadêmica
+:::
+::: {.g-col-6 .g-col-md-3}
+**6.500+**
+
+seguidores no LinkedIn
+:::
+:::
+
+## Minha trajetória, em etapas
+
+<div class="mentoria-timeline">
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-br.svg" alt="Brasil"><div><h3>Colégio Militar do Rio de Janeiro</h3><p>Minha formação escolar é **pública federal**. Foi aqui o início da minha educação.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-br.svg" alt="Brasil"><div><h3>UFRJ · Engenharia Mecânica</h3><p>Primeiro da turma, _cum laude_. Bolsista da **General Electric**.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-br.svg" alt="Brasil"><div><h3>MePrepara</h3><p>Criação de um produto digital de preparação de matemática para GRE e GMAT com alunos de todo Brasil.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-us.svg" alt="Estados Unidos"><div><h3>UCLA · Mestrado</h3><p>_Master of Economics & Public_ Policy, com bolsa da **Fundação Lemann**.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-nl.svg" alt="Holanda"><div><h3>Holanda · PhD e pandemia</h3><p>Início do PhD em Economia e mudança de planos durante a pandemia.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-pt.svg" alt="Portugal"><div><h3>Portugal · Recomeços</h3><p>Uma nova etapa da vida internacional e da construção de caminhos profissionais.</p></div></div>
+<div class="timeline-entry"><span role="img" aria-label="Notebook aberto" style="flex:0 0 35px;width:35px;font-size:25px;line-height:1.1;text-align:center;margin-top:.25rem">💻</span><div><h3>Dados · Trabalho internacional como PJ</h3><p>Projetos remotos de _Data Engineering_ e _Data Science_ para clientes dos Estados Unidos e da Europa, com autonomia profissional.</p></div></div>
+<div class="timeline-entry"><img class="timeline-flag" src="../assets/img/flag-es.svg" alt="Espanha"><div><h3>Espanha · Nômade digital e Cidadania</h3><p>Mobilidade internacional como estratégia de vida: trabalho remoto, visto de nômade digital e **conquista da Cidadania Espanhola em tempo recorde**.</p></div></div>
+</div>
+
+::: {.mentoria-human}
+## O lado humano
+
+Acima de qualquer conquista acadêmica ou profissional, sou uma pessoa profundamente **humana**. A empatia, a curiosidade pela história de outras pessoas e a possibilidade de contribuir para suas vidas são coisas que me **mantêm vivo e dão sentido ao que faço**.
+
+Acredito que essa capacidade de **ouvir**, **compreender** e **me colocar no lugar do outro** é o que tenho de melhor a oferecer nesta mentoria.
+:::
+
+## O que podemos trabalhar juntos
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">01</div>
+
+### Direção e decisões de vida
+
+Entender seu momento atual, identificar prioridades, questionar escolhas e explorar possíveis trajetórias profissionais e pessoais.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">02</div>
+
+### Carreira e posicionamento profissional
+
+Transições, entendimento do mercado, identificação de oportunidades e construção de um posicionamento coerente com seus objetivos.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">03</div>
+
+### Internacionalização e mobilidade
+
+Morar fora, trabalhar para o exterior, conhecer diferentes mercados e avaliar as possibilidades e os desafios de uma vida internacional.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">04</div>
+
+### Educação e oportunidades acadêmicas
+
+Bolsas, mestrados, doutorados, universidades internacionais, candidaturas, GRE, GMAT e cartas de recomendação.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">05</div>
+
+### Networking e construção de oportunidades
+
+Identificar pessoas relevantes, estabelecer conexões, abordar profissionais e utilizar o LinkedIn de maneira estratégica.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker">06</div>
+
+### Autonomia profissional e novos projetos
+
+Empreendedorismo, trabalho independente, prestação de serviços internacionais, marca pessoal e projetos próprios.
+:::
+:::
+:::
+
+## Como funciona
+
+A mentoria é um processo individual de reflexão, exploração e construção de caminhos. Embora cada trajetória seja única, o acompanhamento está organizado em quatro etapas complementares.
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker" style="display:flex;align-items:center;justify-content:space-between;"><i class="bi bi-search" aria-hidden="true" style="font-size:1.4rem;"></i><span>01</span></div>
+
+### Compreender
+
+Conhecer sua trajetória, seu momento atual, suas competências, prioridades e aspirações.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker" style="display:flex;align-items:center;justify-content:space-between;"><i class="bi bi-compass" aria-hidden="true" style="font-size:1.4rem;"></i><span>02</span></div>
+
+### Explorar
+
+Ampliar perspectivas, pesquisar oportunidades e identificar caminhos que talvez você ainda não tenha considerado.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker" style="display:flex;align-items:center;justify-content:space-between;"><i class="bi bi-signpost-split" aria-hidden="true" style="font-size:1.4rem;"></i><span>03</span></div>
+
+### Escolher
+
+Analisar alternativas e tomar decisões mais informadas, considerando seus objetivos e valores pessoais.
+:::
+:::
+::: {.g-col-12 .g-col-md-6}
+::: {.mentoria-card}
+<div class="card-kicker" style="display:flex;align-items:center;justify-content:space-between;"><i class="bi bi-arrow-right-circle" aria-hidden="true" style="font-size:1.4rem;"></i><span>04</span></div>
+
+### Agir
+
+Transformar reflexões em ações concretas e construir um plano individual para os próximos passos.
+:::
+:::
+:::
+
+::: {.mentoria-human}
+### <i class="bi bi-book" aria-hidden="true" style="color:var(--accent);margin-right:.4rem;"></i> Seu Caderno Individual de Trajetória
+
+Ao longo da mentoria, **construiremos juntos** um documento online personalizado que reunirá suas reflexões, diagnósticos, pesquisas, possibilidades, decisões e próximos passos.
+
+Mais do que um registro dos nossos encontros, será um material de referência que você poderá continuar utilizando após o encerramento do acompanhamento.
+:::
+
+_As ferramentas, atividades e reflexões serão adaptadas às necessidades e aos objetivos de cada participante._
+
+## Para quem é
+
+Para pessoas que estão repensando sua trajetória, considerando uma mudança profissional, explorando oportunidades internacionais ou acadêmicas, ou querendo construir algo próprio. Não é necessário trabalhar com tecnologia ou dados.
+
+Não ofereço fórmulas prontas nem garantias de emprego, bolsas ou admissões. A mentoria também não substitui orientação jurídica, migratória ou psicológica especializada.
+
+## Mentoria Individual: Edição Piloto 2027!
+
+::: {.mentoria-contact}
+<div class="card-kicker">PRIMEIRA EDIÇÃO</div>
+
+::: {.grid .mentoria-stats}
+::: {.g-col-12 .g-col-md-4}
+**6 semanas**
+
+de acompanhamento
+:::
+::: {.g-col-12 .g-col-md-4}
+**5 vagas**
+
+nesta edição piloto
+:::
+::: {.g-col-12 .g-col-md-4}
+**Encontros semanais**
+
+online | 60 min
+:::
+:::
+
+Nesta primeira edição, escolhi trabalhar **com apenas cinco pessoas** para dedicar atenção a cada trajetória e oferecer um acompanhamento de qualidade. A metodologia inicial será aperfeiçoada a partir da experiência e das necessidades de cada participante.
+
+### Como será o acompanhamento
+
+Partiremos de um diagnóstico inicial para explorar alternativas, refletir sobre escolhas, analisar caminhos e construir próximos passos concretos. Entre os encontros, poderemos combinar atividades e reflexões de acordo com as necessidades de cada pessoa.
+
+Não se trata de um curso técnico, de uma fórmula pronta ou de uma promessa de resultados profissionais específicos. É um processo de reflexão, orientação e construção de caminhos possíveis, fundamentado na minha experiência acadêmica, profissional, internacional e pessoal.
+
+### A conversa inicial
+
+A seleção dos participantes será feita a partir de uma conversa inicial, para entendermos se existe alinhamento entre suas necessidades e o que posso oferecer.
+
+Trata-se de um acompanhamento individual pago. O formato completo e o investimento serão apresentados na conversa inicial.
+
+[Quero conversar sobre a mentoria](https://wa.me/34611850396?text=Ol%C3%A1%2C%20Caio%21%20Gostaria%20de%20saber%20mais%20sobre%20a%20mentoria.){.btn .btn-primary}
+:::
+
+::: {.mentoria-contact}
+## Cada trajetória é única.
+
+O objetivo não é reproduzir minhas escolhas, mas ajudá-lo a descobrir e construir as suas.
+
+Se essa proposta fizer sentido para você, entre em contato comigo pelo WhatsApp para conversarmos sobre seu momento e o que podemos trabalhar juntos.
+
+[Entre em contato pelo WhatsApp](https://wa.me/34611850396?text=Ol%C3%A1%2C%20Caio%21%20Gostaria%20de%20saber%20mais%20sobre%20a%20mentoria.){.btn .btn-primary}
+
+[Prefere conversar pelo LinkedIn?](https://www.linkedin.com/in/caiovelasco/)
+:::
+
+[← Back to my personal website](../index.qmd)
+:::
